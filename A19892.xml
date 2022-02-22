@@ -1,0 +1,976 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Meditations vppon the passion of our Lord Iesus Christ made by the reuerend father Fulvius Androtius ... ; newlie translated out of Italian into English.</title>
+            <author>Androzzi, Fulvio, 1523-1575.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19892</idno>
+            <idno type="STC">STC 632.7</idno>
+            <idno type="STC">ESTC S129</idno>
+            <idno type="EEBO-CITATION">21531571</idno>
+            <idno type="OCLC">ocm 21531571</idno>
+            <idno type="VID">24737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 24737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1739:59)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Meditations vppon the passion of our Lord Iesus Christ made by the reuerend father Fulvius Androtius ... ; newlie translated out of Italian into English.</title>
+                  <author>Androzzi, Fulvio, 1523-1575.</author>
+               </titleStmt>
+               <extent>94 p.   </extent>
+               <publicationStmt>
+                  <publisher>P. Auroi],</publisher>
+                  <pubPlace>[Douai :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: Meditations vppon the passion.</note>
+                  <note>Place of publication and publisher suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A-C¹² (last leaf blank).</note>
+                  <note>Error in paging: p. 25 misnumbered 15.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Passion --  Meditations.</term>
+               <term>Meditations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:24737:1" rendition="simple:additions"/>
+            <p>MEDITA<g ref="char:EOLhyphen"/>TIONS VPPON THE PASSION OF OVR LORD IESVS CHRIST.</p>
+            <p>
+               <hi>MADE By the Reuerend father</hi> FVLVIVS ANDROTIVS <hi>of the Societie.</hi> OF IESVS Newlie tranſlated out of Ita<g ref="char:EOLhyphen"/>lian into English.</p>
+            <p>An. Domini. 1606.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:24737:2"/>
+            <pb facs="tcp:24737:2"/>
+            <head>MEDITATIONS VPPON THE PAS<g ref="char:EOLhyphen"/>SION AND DEATH OF OVR SAVIOVR Chriſt.</head>
+            <div n="1" type="chapter">
+               <head>How profitable and neceſſarie a thing it is, often to meditate vppon the paſſion and death of our Sauiour Ieſus Christ.</head>
+               <head type="sub">CHAP. I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE frequent and dailie con<g ref="char:EOLhyphen"/>ſideration, and meditation of the life and paſſion of our Lord IESVS-CHRIST, is greatlie neceſſarie to a Chriſtian man, for diuers reaſons.</p>
+               <p n="1">1. Firſt, becauſe we can not know God in this life, but by his workes, which how much the greater they be, ſo much the more they make vs knowe him: and it is a thing moſt certaine, that amongſt all the workes of God, the greateſt, with<g ref="char:EOLhyphen"/>out
+<pb n="4" facs="tcp:24737:3"/>compariſon, is the Incarnation of the eternal woord, which is that the moſt higheſt God became ma<g ref="char:cmbAbbrStroke">̄</g> for mans loue. And ſo conſequentlie, this woork of the Incarnation doth more manifeſt and de<g ref="char:EOLhyphen"/>clare vnto vs the wiſdome, the bountie, the benignitie, the mercie, the charitie, the prouidence, &amp; other perfections of God; and therefore it is the ladder, which the Patriarche Iacob did ſee, by which the Angels aſcended and deſcended: for that by this waie ſpirituall and deuout men aſcend to the knowledge of God, and by the ſame waie they deſce<g ref="char:cmbAbbrStroke">̄</g>d to the know<g ref="char:EOLhyphen"/>ledge of them ſelues.</p>
+               <p n="2">2. Secondlie, becauſe it is vniuerſallie profitable to all ſorte of perſons; as well to thoſe that begin, as to thoſe that be perfect for that it is the tree of life, which ſtan<g ref="char:EOLhyphen"/>deth in the middeſt of the paradiſe of the holie Catholique Church, where are boughes highe and lowe; the higher for ſuch as be greate, whoe contemplate the diuine perfections of almightie God, and the lower for thoſe that be little, whoe contemplate the paines and ſorowes of Chriſt, &amp; the filthines of theire owne ſin<g ref="char:EOLhyphen"/>nes, to bewaile the<g ref="char:cmbAbbrStroke">̄</g> &amp; haue the<g ref="char:cmbAbbrStroke">̄</g> in horror.</p>
+               <p n="3">3. Thirdlie, becauſe à true Chriſtian man ought alwaies to goe after Chriſt
+<pb n="5" facs="tcp:24737:3" rendition="simple:additions"/>and to folowe the lambe whether ſoeuer he goeth, which he in deede doth perfor<g ref="char:EOLhyphen"/>me, when he doth neuer ſeparate him ſelf from him, nor at anie time loſe him out of ſight, but doth meditate all the paſſages and miſteries of his moſt holie life; which for thoſe that be vertuous and good, is nothing els but a moſt ſweete baulme powred out, that in euerie time and place doth alwaies caſt from it ſelf, a moſt pleaſant ſauour of holie Humilitie, of Charitie, of Deuotion, of Compaſſion and of all vertues. And therfore as he that by proffeſſion doth ſtil handle ſome ſweete things, alwaies giueth ſmell of thoſe things which he toucheth: ſo like<g ref="char:EOLhyphen"/>wiſe whoeſoeuer conuerſeth and dealeth with Chriſt in this maner, doth manie times caſt forth a ſauour of Chriſt, that is he commeth to imitate him in humilitie, in charitie, in obedience, in patience, and in all his other vertues.</p>
+               <p n="4">4. Fourthlie, becauſe it is not poſſible to imitate and folowe the vertue of Chriſt, except we conſider his life: for euen as it is impoſſible that a painter: be he neuer ſo skilfull, can draw out the likeneſſe of any thing, vnles he often looke &amp; caſt his eye vppo<g ref="char:cmbAbbrStroke">̄</g> that, which he is to drawe out: ſo is it not poſſible that a Chriſtia<g ref="char:cmbAbbrStroke">̄</g> man can re<g ref="char:EOLhyphen"/>ſemble,
+<pb n="6" facs="tcp:24737:4"/>and expreſſe in him ſelf the vertues of Chriſt, if he haue not oftentimes be<g ref="char:EOLhyphen"/>fore him the life, and thinke not eftſons vppon the vertues of Chriſt.
+<note place="margin">
+                     <hi>Exo.</hi> 25.40.</note> For this cauſe God ſaid to Moiſes. <hi>Behold, and make according to the example which was ſhowed thee in the mountaine.</hi> The like he ſaith alſo to vs, for that the moun<g ref="char:EOLhyphen"/>taine is the highnes of perfectio<g ref="char:cmbAbbrStroke">̄</g>, towards which euerie good Chriſtian ought to walke, ſeeing our Sauiour warneth vs in this manner.
+<note place="margin">
+                     <hi>Matt.</hi> 5.48.</note> 
+                  <hi>Be you perfect, as alſo your heauenlie Father is perfect:</hi> or els this mountaine is the mount Caluarie, the example whereof is Chriſt,
+<note place="margin">
+                     <hi>Ioan.</hi> 13.15.</note> who ſaid in the ghoſpell. <hi>I haue giuen you an example, that as I haue donne to you, ſoe you doe alſo.</hi> And to attaine to this, it is neceſſarie to looke often vppon the example.</p>
+               <p>Therfore God ſaid. <hi>Behold and make.</hi> For euen as a painter doth often caſt his eye on that he is to draw, and then with his hand &amp; penſile doth forme and make his li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es: ſo likewiſe thou muſt firſt behold and view very well the life of Chriſt, thinking and rethinking often there<g ref="char:EOLhyphen"/>vppon, and afterwards ſet thy hands to work, that is thou muſt imitate and fo<g ref="char:EOLhyphen"/>low his moſt holie vertues.</p>
+               <p n="5">5. Fiftlie, becauſe (as S. Auſten ſaith)
+<pb n="7" facs="tcp:24737:4"/>God hath giuen vs this name of <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> which commeth of <hi>Chriſt,</hi> that it might be to vs a continual remembran<g ref="char:EOLhyphen"/>ce of him, and that thereby we might be ſtirred vp, to think oftentimes with our ſelues how much he hath donne, ſaid, and ſuffered for our ſakes, and conſequentlie of all his life. And as we ar wont to giue the names of thoſe, that haue donne vs anie greate good, to ſuch as be moſt deere vnto vs, in remembrance of them, or if we forget them, we be worthie of repre<g ref="char:EOLhyphen"/>henſion, how much more is that Chri<g ref="char:EOLhyphen"/>ſtian man to be called vngratefull whoe ſo ſeldom is mindful of Chriſt, that neuer forgetteth vs, but to remember vs hath reſerued ſo manie wounds? what reaſon is there, or maie be, but that we ſhould neuer be vnmindfull of him? And if be<g ref="char:EOLhyphen"/>fore that we were borne, he had ſo ſweete and ſo holeſome a remembrance of vs, and yet keepeth the ſame ſo freſh of vs continuallie in heauen; wherefore ought not we alſo to be euer mindfull of his infinite goodnes, to conſider alwaies &amp; meditate the ſame, and to contemplate ſtil his moſt dolorous life, and his moſt bitter paſſion.</p>
+               <p n="6">6. Sixtlie, becauſe as in the primitiue Church, when thoſe firſt Chriſtians had
+<pb n="8" facs="tcp:24737:5"/>alwaies before theire eyes the life of Chriſt, they were replenisſhed with ſo manie vertues, they deſpiſed the woorld, and were deſirous to ſhedde theire bloud for Chriſt; ſo we, forgetting the ſame, are emptie of all true and ſolide vertues, are ſo much giuen to the woorld, &amp; ſo little deſirous to endure the leaſt thing that maie be for Chriſt. Heerehence it is that we reade of the Prophete Ieremie, that when God woold giue him to vnder<g ref="char:EOLhyphen"/>ſtand, whence the ruine of the woorlde came, he ſaide.
+<note place="margin">
+                     <hi>Iere.</hi> 12.</note> 
+                  <hi>Al the earth is deſolate, becauſe there is noe man that thinketh in his harte;</hi> to wit, of that which ap<g ref="char:EOLhyphen"/>pertainneth to his ſaluation. And the li<g ref="char:EOLhyphen"/>ke maie we alſo ſaie, that ſuch greate ruines of Chriſtian common weales doe proceede of this, becauſe there is none that doth trulie and earneſtlie think and conſider of the life and death of our Sa<g ref="char:EOLhyphen"/>uiour and Redeemer Chriſt.</p>
+               <p>For euen as it is vnpoſſible that one can euer learne to write wel, if he looke not to the writer that teacheth him: ſo is it vnpoſſible that we euer become truelie vertuous, if continuallie we doe not be<g ref="char:EOLhyphen"/>hold oure ſelues, as in a glaſſe, in the ver<g ref="char:EOLhyphen"/>tuous life of Chriſt,
+<note place="margin">
+                     <hi>Matt.</hi> 11.</note> whoe ſaide. <hi>Learne of me, becauſe I am meeke and humble of
+<pb n="9" facs="tcp:24737:5"/>hart, and you ſhall finde rest to your ſoules.</hi> As if he ſhould ſaie. Wil you alwaies feele peace, repoſe, and content<g ref="char:EOLhyphen"/>ment? be humble of hart. Wil you be humble of hart? Learne of me. Wil you learne of me? Behold and view mie life, and you ſhall find it alwaies ac<g ref="char:EOLhyphen"/>companied with holie humilitie. This ſame was that which S. Paul ſaid.
+<note place="margin">
+                     <hi>Philip.</hi> 2.5.</note> 
+                  <hi>Thin<g ref="char:EOLhyphen"/>ke this in your ſelues which alſoe in Chriſt Ieſus, whoe when he was in the forme of God, thought it no robberie to be him ſelfe equall with God; but he exinanited him ſelfe, taking the forme of a ſeruant, made into the ſimilitude of men, and in ſhape found as man. He humbled him ſelfe, made obedient to death; euen the death of the Croſſe.</hi> With which woords he ſheweth vs, that if we wil be humble, as Chriſt was, it behoueth vs to behold our ſelues, as in a mirrour, in the life of Chriſt.</p>
+               <p n="7">7. Seuenthlie; foraſmuch as our Sa<g ref="char:EOLhyphen"/>uiour hath ſaid, <hi>I am the waie,</hi>
+                  <note place="margin">
+                     <hi>Io.</hi> 14.6.</note> 
+                  <hi>the veritie, and the life;</hi> how can a man walke in a waie, if he neuer looke vp<g ref="char:EOLhyphen"/>pon it? how ſhal he learne veritie, whoe neuer heareth what the maiſter of ve<g ref="char:EOLhyphen"/>ritie doth ſaie? how ſhal he haue life, whoe neuer doth remember the au<g ref="char:EOLhyphen"/>thor
+<pb n="10" facs="tcp:24737:6"/>of life? And like as he vouchſafed to take mans nature vppon him, and to be conuerſant ſo long time with man, to the end that beholding him &amp; co<g ref="char:cmbAbbrStroke">̄</g>uerſing with him, man ſhould be in loue with him, with his holie vertues, and godlie manners, which he came to teache men; ſo alſo it was his wil, that his life ſhould be writen for vs, that by often thinking therevppon, we might be inamoured of him, of his godlie manners, and of his holie vertues.</p>
+               <p>And if he ſo much lamented of his diſ<g ref="char:EOLhyphen"/>ciples,
+<note place="margin">
+                     <hi>Io.</hi> 14.9.</note> when he ſaid to them. <hi>Soe long ti<g ref="char:EOLhyphen"/>me. I am with you, and haue you not kno<g ref="char:EOLhyphen"/>wen me?</hi> what lamentation maie he make of vs, and wil at the daie of iudg<g ref="char:EOLhyphen"/>ment, whoe in ſo manie, and ſo manie yeers, haue ſo ſmal vnderſtanding and knowledge of him? And whence is it that we be ſo impatient, and that we deſpaire ſo ſoone in ſuch tribulations, as happen vnto vs; but of this, that we doe not conſider the life of Chriſt? Therefo<g ref="char:EOLhyphen"/>re S.
+<note place="margin">
+                     <hi>Heb.</hi> 12.3.</note> Paul ſaith. <hi>Think diligentlie vppon him which ſuſtained of ſinners ſuch con<g ref="char:EOLhyphen"/>tradiction againſt him ſelf, that you be not wearied, fainting in your mindes;</hi> in the time of your tribulations. S. Peter alſo writeth in this ſort.
+<note place="margin">1. <hi>Pet.</hi> 3.1.</note> 
+                  <hi>Chriſt therfore hauing
+<pb n="11" facs="tcp:24737:6"/>ſuffered in the fleſh, be you alſo armed with the ſame cogitation.</hi> And in a nother pla<g ref="char:EOLhyphen"/>ce. <hi>Chriſt alſo ſuffred for vs,</hi>
+                  <note place="margin">1. <hi>Petr.</hi> 2.21.</note> 
+                  <hi>leauing you an example, that you maie folow his ſlep<g ref="char:EOLhyphen"/>pes.</hi> But how can a man folow the ſteppes of an other, if he neuer looke vppon them? And wherefore are we ſuch louers of our ſelues, of pleaſures, of delightes and of the honours of this world, if not becauſe we doe not often &amp; ſeriouſlie thinke vppon the life of our Sauiour Chriſt, whoe contemned al theſe things? How ſhall one denie his owne will, and take vp his Croſſe, and folow Chriſt, if he neuer as much as remember Chriſt?
+<note place="margin">1. <hi>Io.</hi> 2.6.</note> If S. Iohn ſaie, that <hi>he, which pretendeth to abide in Christ, must walke as Christ walked;</hi> how can he doe this, that neuer thinketh vppon the life of Chriſt? If S.
+<note place="margin">
+                     <hi>Epheſ.</hi> 5. <hi>&amp;</hi> 6.</note> Paul affirme that we ought to be fo<g ref="char:EOLhyphen"/>lowers of Chriſt, appareling our ſelues with the vertues of Chriſt, and arming our ſelues with Chriſt; how can we euer obtaine this, if we doe not at anie time remember Chriſt? for this cauſe, as the ſame Apoſtle teacheth vs,
+<note place="margin">
+                     <hi>Philip.</hi> 3.18.</note> 
+                  <hi>manie be eni<g ref="char:EOLhyphen"/>mies of the Croſſe of Christ,</hi> whoe haue taſt onlie of earthlie things, and be alto<g ref="char:EOLhyphen"/>gether and wholie vnmindfull of the Croſſe of Chriſt.</p>
+               <p n="8">
+                  <pb n="12" facs="tcp:24737:7"/> 8. Eightlie, we maie eaſilie knowe how profitable, ſweete, and neceſſarie a thing it is, to be alwaies mindfull of our Sauiour Chriſt, by that which the ſpouſe ſaith in the Canticles,
+<note place="margin">
+                     <hi>Canti.</hi> 1.13.</note> that ſhe had made a bundle of mirrhe of her beloued, &amp; that ſhe would alwaies beare him in her breſt. What els is this bundle of mirrhe, but the odoriferous and ſweete life of Chriſt our welbeloued, which pre<g ref="char:EOLhyphen"/>ſerueth the ſoule from al corruption and putrefaction of ſinne? and this bun<g ref="char:EOLhyphen"/>dle we muſt beare in our breſt, that is in our memorie. And wherefore is our Lord Ieſus Chriſt called our brother, our ſpouſe, our co<g ref="char:cmbAbbrStroke">̄</g>panion, our frind, our pa<g ref="char:EOLhyphen"/>ſtour, our phiſitio<g ref="char:cmbAbbrStroke">̄</g>, our aduocate, our pro<g ref="char:EOLhyphen"/>tectour, our redeemer, and our life, if not becauſe we ought to be mindefull of him, as of a deere frind, of a companion, of a brother, of a ſpouſe, and as of our owne life! wherefore would he remaine with his reall prese<g ref="char:cmbAbbrStroke">̄</g>ce in the moſt bleſſed Sacrame<g ref="char:cmbAbbrStroke">̄</g>t of the altare, but to this end, that we ſhould alwaies haue him freſhin our memorie? and therefore, in the inſti<g ref="char:EOLhyphen"/>tution of this moſt bleſſed Sacrament,
+<note place="margin">
+                     <hi>Luc.</hi> 22.29.</note> he ſaied. <hi>Doe this for a commemoration or remembrance of me.</hi> And what thing can be more ſweete, then to remember
+<pb n="13" facs="tcp:24737:7"/>oftentimes, that almightie God hath ſo much loued vs, that he hath made his deerebeloued ſonne to become man, he hath made him to be conuerſant with men, and in th'end to die for men.</p>
+               <p n="9">9. Ninthlie becauſe it is a rule appro<g ref="char:EOLhyphen"/>ued by manie, that the life and miſteries of our Sauiour Chriſt doe help much thoſe that be of ripe age, if they doe ap<g ref="char:EOLhyphen"/>ply them to them ſelues with a liuelie faith, with a deuout memorie, and with humble gratefulnes. For euen as the me<g ref="char:EOLhyphen"/>dicine or herbe, which is of anie greate force and vertue, helpeth not, if it be nor applied and laide to the ſick perſon; ſo likewiſe a man receiueth no vertue nor force from the life &amp; paſſion of our Sauiour Chriſt, if he doe not applie and vnite the ſame to him ſelfe: which thing is done by a liuelie faith, &amp; by co<g ref="char:cmbAbbrStroke">̄</g>ſidera<g ref="char:EOLhyphen"/>tion and godlie thoughts, that make a man partaker of the merites of the life &amp; death of Chriſt. The memorie therefore of the life and death of Chriſt, is a roote, by which we receaue the merite and reward of Chriſt: and how much grea<g ref="char:EOLhyphen"/>ter, and more ſtrong this memorie is, ſo much more merite and force recea<g ref="char:EOLhyphen"/>ue we of our Sauiour Chriſt.</p>
+               <p>So that euerie deuoute perſon ought to
+<pb n="14" facs="tcp:24737:8"/>vnite all his woorks of pietie and deuo<g ref="char:EOLhyphen"/>tion, ſuch as be his good deſires, his in<g ref="char:EOLhyphen"/>tentions, his praiers, his faſtings, his wat<g ref="char:EOLhyphen"/>chings; yea thoſe of nature alſo, as to eate, to drinke, to laboure, to ſuffer, and all other things, together with thoſe of Chriſt, and to offer them vp ſo vnited to almightie God, to whome they wil be moſt acceptable, as a perfume of diuers ſweete ſauours kindled and burned to<g ref="char:EOLhyphen"/>gether.</p>
+               <p>This remembrance and vnion is ſo gratefull a thing to almightie God, that praier and other good woorkes offered vp to him with ſuch vnion, are without compariſon more acceptable and pleaſant to his diuine maieſtie, than thoſe good woorkes that be donne without this vnion.</p>
+               <p>Moreouer if we doe vnite and ioine our woorkes with thoſe of Chriſt, they become no leſſe noble and worthie, then doth braſſe when it is melted with gol<g ref="char:EOLhyphen"/>de, which braſſe is by this meane chaun<g ref="char:EOLhyphen"/>ged fro<g ref="char:cmbAbbrStroke">̄</g> his owne baſenes, into the excel<g ref="char:EOLhyphen"/>lencie and worthines of golde. It is then a good thing to ioine our woorks with thoſe of Chriſt, that by the value &amp; price of his, ours be alſo receaued and eſteemed. For as the Iuie tree can not of it
+<pb n="15" facs="tcp:24737:8"/>ſelfe mount vp on highe, but leaning to ſome other tree, it climmeth as highe, as the ſame tree groweth; ſo likewiſe in a certaine maner doth the baſenes of our woorkes aſcend &amp; mount vp on highe, if they leane vppon this tree of life, which is our Lord Ieſus Chriſt.</p>
+               <p>And euen as a droppe of water, is of it ſelf nought els but water, but caſt into a greate veſſel of wine, getteth an other kind of being more excellent and noble; ſo our woorkes, which be in them ſelues but of ſmal value, when they be ioined with the woorkes of Chriſt, become more worthie and of greater price, by reaſon of that grace which they receaue from the ſame Ieſus Chriſt.</p>
+               <p>It is therefore a thing verie co<g ref="char:cmbAbbrStroke">̄</g>uenient and behofefull, that in like ſort as men ar called Chriſtians of Chriſt, ſo in all theire actio<g ref="char:cmbAbbrStroke">̄</g>s, in their woords, in theire thoughts and in all other things, they procure and ſeeke to imitate and follow Chriſt. And ſo when they ſpeake, conuerſe with others, eate, praie, or doe anie thing els whatſoeuer, they ought to doe it in that ſorte, in which they maie think that Chriſt did ſuch things. By which practi<g ref="char:EOLhyphen"/>ſe it wil come to paſſe, as a certaine Do<g ref="char:EOLhyphen"/>ctor ſaith, that theire life and behauiour
+<pb n="16" facs="tcp:24737:9"/>wil become noble and renued no other<g ref="char:EOLhyphen"/>wiſe the<g ref="char:cmbAbbrStroke">̄</g> a noble bird when he is chaun<g ref="char:EOLhyphen"/>ged from a filthie and ill fauouring place into a good and pure ayre.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>Whence it commeth that Chriſtians doe ſo little remember Chriſt and thinke vppon him.</head>
+               <head type="sub">CHAP. II.</head>
+               <p>THis proceedeth chiefelie of the lit<g ref="char:EOLhyphen"/>tle loue we beare to Chriſt: becauſe as our Sauiour ſaith;
+<note place="margin">
+                     <hi>Matth.</hi> 6.21.</note> 
+                  <hi>where thy treaſure is,</hi> that is the thing which thou doeſt loue, <hi>there is thy hart alſo,</hi> to wit all thy thought and care: for the nature of true loue is, to transforme and chaunge him that loueth, into the thing beloued. And therefore S. Auſten ſaith that our <hi>ſoule is more where it doth loue then where it doth giue life:</hi> in ſo much that with greate reaſon Dalila ſaid to Samp<g ref="char:EOLhyphen"/>ſon.
+<note place="margin">
+                     <hi>Iudic.</hi> 16.15.</note> 
+                  <hi>How doest thou ſaie that thou doest loue me, if thy hart be not with me?</hi> which is as much as if ſhe had ſaide. Thou doeſt endeauour thy ſelfe, O Sampſon, to perſwade me, that thou deeſt more affect and loue me, then all other woomen; but how can this be
+<pb n="17" facs="tcp:24737:9"/>true, ſeeing thou doeſt nether thinke of me, nor remember me, nor truſt me? For the ſigne of one that loueth trulie &amp; ſincerlie, is to deſire erneſtlie to become one thing with that, which he loueth. And therfore he that loueth hath all his powers, that is his memorie, his vnder<g ref="char:EOLhyphen"/>ſtanding, his will, his imagination, and whatſoeuer els, wholie imploied in that thing which he loueth: in ſo much that S. Denys of Areopagus ſaith, that loue is a certaine alienatio<g ref="char:cmbAbbrStroke">̄</g> of it ſelf, which com<g ref="char:EOLhyphen"/>meth of this, that a ma<g ref="char:cmbAbbrStroke">̄</g> is altogether tra<g ref="char:cmbAbbrStroke">̄</g>ſ<g ref="char:EOLhyphen"/>formed into the thing beloued of him.</p>
+               <p>And as a man that is inamoured and caſt awaie, in ſome vaine and laſci<g ref="char:EOLhyphen"/>uious loue,
+<note place="margin">2. <hi>Reg.</hi> 13.</note> (as we reade that Amnon was for his ſiſter Thamar) doth nether eate, nor drink, nor ſleepe, nor repoſe, being alwaies bent and occupied in this thought, becauſe the wound of his in<g ref="char:EOLhyphen"/>ward affection doeth not ſuffer him to take anie reſt, nether is he fitte to thinke of anie other thinge, nor doth feare what ſoeuer labour: ſo the loue of God, which proceedeth fro<g ref="char:cmbAbbrStroke">̄</g> a more noble beginning, and tendeth to a more excellent end when it is true loue in deede, thinketh nothing els, eſteemeth nothing els, deſi<g ref="char:EOLhyphen"/>reth nothing els, nor ſeeketh nothing els
+<pb n="18" facs="tcp:24737:10"/>but God, and ſo accounteth of all trauail and difficultie as of nothing, onlie for his loue. It is then a thing moſt euident that it proceedeth of little loue, that we thinke ſo little of our Sauiour Ieſus Chriſt.</p>
+               <p>Now if anie one ſhould demaunde, whence it commeth that Chriſtians doe ſoe little loue our Sauiour Chriſt? the aunſwere might be, that the reaſon is this, which our Sauiour vttered in the ghoſple,
+<note place="margin">
+                     <hi>Io.</hi> 3.19.</note> when he ſaid: <hi>The light is come into the world, and men haue loued the darknes rather then the light.</hi> And that which he ſaid in another place,
+<note place="margin">
+                     <hi>Math.</hi> 6.24.</note> that <hi>No man can ſerue two maſters:</hi> ſuch as is God, and the world; the ſpirite and the fleſh; heauenlie things and earthlie things. A man maie likewiſe aunſwere that, which to the like purpoſe that learned and godlie man Thaulerus awnſwered in this pretie queſtion propounded vnto him, to wit, whence it proceedeth, that almightie God being within vs, &amp; more neere vnto vs, then we be to our ſelues, we yet feele him not? To this he aunſwe<g ref="char:EOLhyphen"/>reth verie wel, and yeeldeth the reaſon in this manner, ſaying that it proceedeth of this.</p>
+               <lg>
+                  <pb n="19" facs="tcp:24737:10"/>
+                  <l>Becauſe the grace of God doth not woorke in vs.</l>
+                  <l>But whie doth not the grace of God woorke, in vs?</l>
+                  <l>Becauſe we deſire not the ſame with al our hart.</l>
+                  <l>Wherfore doe we not deſire the ſame with al our hart?</l>
+                  <l>Becauſe we doe not loue the ſame with al our hart.</l>
+                  <l>And whie doe we not loue the ſame with al our hart?</l>
+                  <l>Becauſe we know it not.</l>
+                  <l>But whie doe we not know it?</l>
+                  <l>Becauſe we know not our ſelues.</l>
+                  <l>And what is the reaſon, whie we doe not knowe our ſelues?</l>
+                  <l>Becauſe we are negligent in conſide<g ref="char:EOLhyphen"/>ring our owne life.</l>
+                  <l>Wherfore doe we not conſider our owne life?</l>
+                  <l>Becauſe the eye of our vnderſtanding is blinded.</l>
+                  <l>But wherfore is the eye of our vnder ſtanding blinded?</l>
+               </lg>
+               <p>Becauſe it is ful of duſt and filthines, that is of diſordinate loue and delight of creatures, of the world, of our fleſh, &amp; and of our ſelues.</p>
+               <p>Behold then heere the reaſon verie
+<pb n="20" facs="tcp:24737:11"/>manifeſt and euident. And therfore our Sauiour ſaid.
+<note place="margin">
+                     <hi>Luc.</hi> 14.26.</note> 
+                  <hi>If anie man come to mé, and hateth not his father and mother, and wife and children, and brethren and ſi<g ref="char:EOLhyphen"/>ſters, yea and his owne life beſides, he can not be my diſciple;</hi> to make vs vnderſtand, that no man can trulie loue God, and think of him as he ought to doe, if firſt he doe not abandone al diſordinate loue of him ſelfe, of his owne ſenſualitie, and whatſoeuer creature. For as a little duſt is ſufficient to hinder vs, that with oureyes we behold not the heauens; ſo a little diſordinate loue is ſufficient to hinder vs, that we haue no taſt of al<g ref="char:EOLhyphen"/>mightie God.
+<note place="margin">
+                     <hi>Luc.</hi> 14.33.</note> Heerehe<g ref="char:cmbAbbrStroke">̄</g>ce it is that our Sa<g ref="char:EOLhyphen"/>uiour ſaid. <hi>Euerie one of you that forſaketh not al that he poſſeſſeth</hi> (that is al diſordi<g ref="char:EOLhyphen"/>nate loue and affection) <hi>can not be my diſciple.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>Certaine aduiſes, wherby to meditate the paſſion of our Sauiour Ieſus Christ with more fruite.</head>
+               <head type="sub">CHAP. III.</head>
+               <p n="1">1. THe firſt is, that the gift of praier, and to think wel vppon the paſ<g ref="char:EOLhyphen"/>ſion
+<pb n="21" facs="tcp:24737:11"/>of our Sauiour, and the benifit of our redemption, is a gift of God; and ſo it behoueth vs to deſire the ſame, and to demaund it continuallie with al our hart, foraſmuch as it is writen. <hi>Aske,</hi>
+                  <note place="margin">
+                     <hi>Luc.</hi> 11.9.</note> 
+                  <hi>and it ſhal be giuen you.</hi>
+               </p>
+               <p n="2">2. The ſecond is, that a man ought a<g ref="char:EOLhyphen"/>boue al other things to be exceeding humble: for how can it be, that with a proude and loftie hart, a man ſhould euer meditate wel the life and paſſion of him, whoe being God was made man, and taughte vs to be huble with his woords, with his woorkes, &amp; with his example, in his birth, in his life, and in his death? Theſe miſteries can not be vnderſtoode without ſupernatural light, which is not giuen but to ſuch as be hu<g ref="char:cmbAbbrStroke">̄</g>ble Wherfore our Sauiour ſaid in the Ghoſple.
+<note place="margin">
+                     <hi>Matt.</hi> 11.25.</note> 
+                  <hi>I confeſ<g ref="char:EOLhyphen"/>ſe to thee, O father, Lord of beauen and earth, becauſe thou haſt hid theſe things from the wiſe and prudent</hi> (of this worlde) <hi>and hast reuealed them to litle ones,</hi> that is to the humble. And ſo for want of this humilitie, there be verie fewe that haue anie taſt of theſe miſteries. He then that wil meditate theſe holy miſteries &amp; pro<g ref="char:EOLhyphen"/>fit him ſelf by the ſame, muſt humble him ſelf exceedingly, and euen from the bottom of his heart eſteeme himſelf alto<g ref="char:EOLhyphen"/>gether vnworthy.</p>
+               <p n="3">
+                  <pb n="22" facs="tcp:24737:12" rendition="simple:additions"/> 3. The third is, that it is alſo neceſſa<g ref="char:EOLhyphen"/>rie to haue our co<g ref="char:cmbAbbrStroke">̄</g>ſcience voide and clea<g ref="char:EOLhyphen"/>ne from al ſinne: for how can he with ſinne meditate the death and paſſion of Chriſt, whoe ought to vnderſtand, that Chriſt died, to giue death to ſinne? And therfore it is a verie profitable thing, that a man firſt demaund pardo<g ref="char:cmbAbbrStroke">̄</g> at Gods hands for all his ſinnes, and ſtedfaſtlie purpoſe with him ſelfe that he wil rather die, then euer anie more offend his diui<g ref="char:EOLhyphen"/>ne maieſtie, and this as often as he goeth to meditate theſe holie miſteries.</p>
+               <p n="4">4. The fourth is, that à great impedi<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t &amp; let alſo is too much loue, and too much anxietie or carefulnes of woorldlie thinges the which, how litle that they be, hinder vs verie much from ſeeing God, no otherwiſe then whatſoeuer little im<g ref="char:EOLhyphen"/>pediment that is put before our eyes, doth let vs that we can not behold the heauens. And he that with ſuch thoughts doth make his praier, is as one that eateth garlike, and afterward goeth to nego<g ref="char:EOLhyphen"/>tiate with ſome greate Prince. It was not without greate cauſe therfore, that our Sauiour did ſo often make his praier in a mountaine, being ſolitarie and alone.</p>
+               <p n="5">5. The fift is; that if we earneſtlie deſi<g ref="char:EOLhyphen"/>re to taſt the myſteries of the life and paſ<g ref="char:EOLhyphen"/>ſion
+<pb n="23" facs="tcp:24737:12" rendition="simple:additions"/>of Chriſt, it is verie expedient to exerciſe our ſelues in mental praier, be<g ref="char:EOLhyphen"/>cauſe to praie with our mouth, and to haue our hart diſtracted is of ſmal profit: and it is as if one ſhould eate al the fleſh of a capon, and afterward ſend the bones to anie great perſonage. Therfore Chriſt our Sauiour, warneth vs in the ghoſple ſaying. <hi>God is a ſpirite,</hi>
+                  <note place="margin">
+                     <hi>Io.</hi> 4.24.</note> 
+                  <hi>and they that adore him, muſt adore in ſpirite and veritie.</hi>
+               </p>
+               <p n="6">6. The ſixt is, that becauſe mental praier is one of the moſt hard &amp; tedious things, that we can doe (which is the cauſe that there be manie that giue them ſelues to the woorkes of mercie, and to ſundrie mortifications, but fewe that imploie them ſelues in mental praier) therfore we haue greate neceſſitie of much patience, of much ſtrength of min<g ref="char:EOLhyphen"/>de, of greate hope in God, and of perſe<g ref="char:EOLhyphen"/>uerance: for that by the help of God, and by dooing what lieth in vs, we maie ob<g ref="char:EOLhyphen"/>teine all things. And for ſo much as this treaſure is ineſtimable, make account to ſel al that thou haſt, and to buy it, and enioie it for euer.</p>
+               <p n="7">7. The ſeuenth is, that to make our mental praier wel, it is a verie good thing to vnderſtand, and know the im<g ref="char:EOLhyphen"/>pediments
+<pb n="24" facs="tcp:24737:13"/>that maie hinder vs, and to conſider them oftentimes, thereby the better to auoide them, and they be theſe that folowe.</p>
+               <p n="1">1. The litle account that we make of venial ſinnes, which neuertheles amongſt other things, doe depriue vs of that per<g ref="char:EOLhyphen"/>fect puritie of mind, which we ought to haue.</p>
+               <p n="2">2. To much trouble &amp; vnquietnes of conſcience for venial ſinnes.</p>
+               <p n="3">3. Superfluous ſcruples which hold our minde alwaies vnquiet.</p>
+               <p n="4">4. Bitternes or tediouſnes of hart, which proceedeth ſomtimes of anger, ſomtimes alſo of rancour, becauſe our hart is as it were a veſſel of gall, which we muſt emptie and voide if we wil fill it with honie.</p>
+               <p n="5">5. Senſual conſolations; for many there be that deſire to enioie God, but they wil not leaue, nor forbeare the good mor<g ref="char:EOLhyphen"/>ſels of the world: and yet ſpiritual conſo<g ref="char:EOLhyphen"/>lation is not giuen but to ſuch, as for the loue of God be afflicted and heauie, and not to thoſe that haue comfort and ioie in the world. So the ghoſple tea<g ref="char:EOLhyphen"/>cheth vs,
+<note place="margin">
+                     <hi>Matt.</hi> 5.5.</note> that <hi>Bleſſed ar they that mourne, for they ſhal be comforted.</hi>
+               </p>
+               <p n="6">6. The diſordinate care of temporal
+<pb n="15" facs="tcp:24737:13" rendition="simple:additions"/>affaires and neceſſaires; the remedie whereof is firſt, to ſhake of from vs al diſordinate affectio<g ref="char:cmbAbbrStroke">̄</g>, that we bere to crea<g ref="char:EOLhyphen"/>tures. Loue not, and thou ſhalt not be af<g ref="char:EOLhyphen"/>flicted. An other remedie is, to caſt al our care vppon God, and to relie vppon him with a ſtedfaſt faith: for when thou haſt done what lieth in thee to doe, God wil take ordre for the reſt, ſeeing he hath commaunded vs,
+<note place="margin">
+                     <hi>Matt.</hi> 6.33.</note> that our chiefeſt care be to think vppon him &amp; to ſerue him alwaies</p>
+               <p n="7">7. Ouermuch diligence and tendernes in gouerning our owne bodie.</p>
+               <p n="8">8. The vice of curioſitie, in deſiring to know other mens dooings, and to haue our things too neat and fine.</p>
+               <p n="9">9. To leaue of, and not continue our ordinarie cuſtome and time of praier, without iuſt cauſe, for that the co<g ref="char:cmbAbbrStroke">̄</g>tinuing of praier (although the time be not long) is of greate frute and profitte.</p>
+               <p n="10">10. Delicious dainties and ſuperfluitie in eating and drinking, which hinder vs verie much from eleuating and lifting vp our mind to God.</p>
+               <p n="11">11. Too exceſſiue abſtinence, or indiſ<g ref="char:EOLhyphen"/>poſition of bodie.</p>
+               <p n="12">12. Ouergreat affection to anie crea<g ref="char:EOLhyphen"/>ture, or anie thing els, becauſe our mind
+<pb n="26" facs="tcp:24737:14"/>is alwaies in that,
+<note place="margin">
+                     <hi>Matt.</hi> 6.21.</note> which we moſt loue: and where our treaſure is, there is alſo our hart.</p>
+               <p n="8">8. The eighth is, that we muſt wel vn<g ref="char:EOLhyphen"/>derſtand thoſe things, that further vs to make our mental praier wel, to th'end that we obſerue them with all diligence. Such be the things that enſue.</p>
+               <p n="1">1. A great and carefull deſire of men<g ref="char:EOLhyphen"/>tal praier, becauſe the loue of th'end, which we ſeeke, moueth vs to woorke, and maketh al paines to ſeeme but light: in ſomuch that we ought to deſire men<g ref="char:EOLhyphen"/>tal praier, euen as one that is hungrie de<g ref="char:EOLhyphen"/>ſireth bread, and as he that is couetous, longeth after treaſures, and as a man ca<g ref="char:EOLhyphen"/>ried away with affection towards her, whome he deſireth for his ſpouſe; as the ſcripture ſaith.</p>
+               <p n="2">2. Strength and diligence to ouercome the impediments and difficulties of this exerciſe.</p>
+               <p n="3">3. The garde and cuſtodie of our hart, which being the principal inſtrument of this muſicke, if it be not wel in tune, it can not make good melodie: we muſt then keepe our hart with great vigilan<g ref="char:EOLhyphen"/>cie, from twoe things eſpeciallie, that is from vaine and idle thoughts; and from diſordinate affections.</p>
+               <p n="4">
+                  <pb n="27" facs="tcp:24737:14"/> 4. The continual remembrance of God, and to haue him alwaies preſent, as a witneſſe of our life, by finding him in euerie place, and in euerie thing.</p>
+               <p n="5">5. To vſe oftentimes certaine breefe praiers, called iaculatorie or dartting, be<g ref="char:EOLhyphen"/>cauſe they be as it were darted from our hart to almightie God, like ſo manie a<g ref="char:EOLhyphen"/>morous arrowes, that conſerue &amp; main<g ref="char:EOLhyphen"/>taine the feruor of deuotion.</p>
+               <p n="6">6. The reading of deuout bookes, be<g ref="char:EOLhyphen"/>cauſe our hart is as a mill, that doth grind all that is caſt into it.</p>
+               <p n="7">7. The gard and cuſtodie of our po<g ref="char:EOLhyphen"/>wers and ſenſes, which be as it were the gates of this citie, which is our hart; and aboue al other ſenſes, our tongue is that, which doth moſt emptie our hart of deuotion.</p>
+               <p n="8">8. Solitarines of bodie and mind, which is the mother of praier, euen as ſilence is the father of the ſame.</p>
+               <p n="9">9. To haue our times appointed for praier, eſpeciallie at morning and eue<g ref="char:EOLhyphen"/>ning: and whoſo cannot praie twice a day, let him pray once a day.</p>
+               <p n="10">10. Perſeuerance and conſtancie in praier.</p>
+               <p n="11">11. To vſe auſteritie and rigour to<g ref="char:EOLhyphen"/>wards our bodie, as faſting, diſciplines,
+<pb n="28" facs="tcp:24737:15"/>heare cloathes, hard bead; and ſuch like things, which ſuſteine deuotion.</p>
+               <p n="12">12. To frequent the woorks of mercie, which increaſe the feruour of deuotion.</p>
+               <p n="13">13. The time, the place, the diſpoſition of the bodie, and other things like theſe. The time moſt fit is the morning; and it furthereth vs verie much to prepare mat<g ref="char:EOLhyphen"/>ter ouernight, for the praier which we be to make in the morning; and when we chance to wake out of ſleepe in the night, it helpeth exceedinglie to lift vp our mind to God, with ſome ſhort praier, as by ſaying <hi>Gloria Patri, &amp; Filio, &amp;c.</hi> &amp; that in the morning, the firſt thing we ſuffer to enter into our hart, be the reme<g ref="char:cmbAbbrStroke">̄</g>brance of almightie God. The place ought to be obſcure and ſolitarie. The diſpo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ion of the bodie muſt be, that ſomtimes we kneele, ſomtimes we lie proſtrate vppon the grownd, ſomtimes we lift vp our eyes to heauen, or that we ſtand, or ſitte, yf we can not kneele.</p>
+               <p n="9">9. The ninth is, that we muſt alſo haue knowledge of the temptations, that be contrarie to praier, to defend our ſelues from them. And they be theſe.</p>
+               <p n="1">1. The chiefeſt is, when we ſeeke no ſenſible deuotion nor ſpiritual conſola<g ref="char:EOLhyphen"/>tion, eſteeming our ſelues to be aban<g ref="char:EOLhyphen"/>doned
+<pb n="29" facs="tcp:24737:15"/>and vtterlie forſaken of God: but it behoueth vs at ſuch times, to remit our ſelues wholie into his hands, and to ex<g ref="char:EOLhyphen"/>pect conſolation from him,
+<note place="margin">
+                     <hi>Mat.</hi> 15.22.</note> perſeuering alwaies with the Chananite, which in the end was wonderfullie comforted.</p>
+               <p n="2">2. Vncleane thoughts which the diuell putteth into vs that by them we come to leaue of praier, which we muſt neuer doe nor in anie wiſe be diſcomforted at the matter, if they proceede not of our owne faulte, nor we giue anie conſent vnto them:
+<note place="margin">
+                     <hi>Luc.</hi> 15.39.</note> but then rather ought we to praie more, as that blind man did, whoe the more the people rebuked him, that he ſhould hold his peace,
+<note place="margin">
+                     <hi>Matth.</hi> 8.25.</note> the more he cried. So likewiſe the Apoſtles cried mo<g ref="char:EOLhyphen"/>re to our Sauiour, when the te<g ref="char:cmbAbbrStroke">̄</g>peſt grewe more in the ſea. And there is no doubt but that thou ſhalt gaine more in this ſight, the<g ref="char:cmbAbbrStroke">̄</g> if thou ſhouldeſt receaue great comfort Gods hands.</p>
+               <p n="3">3. To be afraide when we praie, chie<g ref="char:EOLhyphen"/>felie when we be alone in the night. The remedie is, firſt to beleeue ſtedfaſtlie, that the deuile can not touch one haire of our head, without ordre &amp; permiſſio<g ref="char:cmbAbbrStroke">̄</g> of God; for if he had otherwiſe pouer to hurt vs, we might wel aſſure our ſelues, that he would not faile to doe it, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> aſmuch as
+<pb n="30" facs="tcp:24737:16" rendition="simple:additions"/>he is alwaies in all places. Secondlie we muſt perſwade our ſelues, that, when we be at praier, we haue with vs preſent our Angel keeper, and the help of al other good Angels. Thirdlie that we are in the preſence of almightie God, and of all the court of heauen.</p>
+               <p n="4">4. Sleepe or drowſines, againſt which, a good remedie is, if it proceede of ſlouth<g ref="char:EOLhyphen"/>fulnes, to vſeſome diſcipline, or ſome other auſteritie, and to demaund help of God.</p>
+               <p n="5">5. Diffidence and miſtruſt, when we mark that in long time we profit little: but we muſt vnderſtand, that God is of<g ref="char:EOLhyphen"/>tentimes woont to beſtowe his benefits and gifts after manie yeeres, and that for the moſt part, how much more he dif<g ref="char:EOLhyphen"/>ferreth to giue, the greater fauours he af<g ref="char:EOLhyphen"/>terwards beſtoweth vppon vs.</p>
+               <p n="6">6. Preſumption, when we ſeeme to ha<g ref="char:EOLhyphen"/>ue obteined the end; and yet we maie trulie think, that there is no greater ſigne that we be farre from the end, then to as much as deeme with our ſelues, that we be now at the end.</p>
+               <p n="7">7. A nie diſordinate appetite of what<g ref="char:EOLhyphen"/>ſoeuer ſenſual thing.</p>
+               <p n="8">8. Vndiſcreete zeale to help others, to whome we ought to attend in ſuch ſort, that it be no preiudice to our ſelues, and
+<pb n="31" facs="tcp:24737:16"/>that we be not therebie conſtrained to forſake and leaue our praier.</p>
+               <p n="10">10. The tenth is, that it is alſo expe<g ref="char:EOLhyphen"/>dient to knowe, that praier is not the end which we muſt ſeeke for, but that it is a meane to get the end, which end doth conſiſt in three things, that is in the loue of God, in true Obedience, which ſprin<g ref="char:EOLhyphen"/>geth out of the loue of God, that can not in anie wiſe be idle, and in mortifying of our owne wil, which is a thing moſt ne<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rie for obedience, becauſe the wil of God can not be ingraffed in our ſowle, except we firſt cut off our owne wil. And this is the croſſe,
+<note place="margin">
+                     <hi>Mat.</hi> 10.38.</note> that Chriſt commaun<g ref="char:EOLhyphen"/>deth vs to take and folow him, which, becauſe it is ſharpe and bitter, hath neede to be tempered wih the ſweetenes of praier. So that praier is a meane to obtai<g ref="char:EOLhyphen"/>ne this end, and it is not our ſaluation, but the principal medicine of our ſalua<g ref="char:EOLhyphen"/>tion. And therfore he deceaueth him ſelf, whoe taketh greate delighte to praie much, but hath no care to aduaunce him ſelf in mortification, nor thinketh not how to ouercom him ſelf, and ſubdue his euel inclinations. He alſo, that in praier ſeeketh nothing els but guſt and pleaſu<g ref="char:EOLhyphen"/>re, and therfore leaueth ſuch woorks of charitie, as haue any bodilie paine ioined
+<pb n="32" facs="tcp:24737:17"/>with them. Likewiſe he, that laboureth to ſaue his neighbour, and yet in the meane time remaineth ful of paſſion, of anger, of diſobedience, and of gluttonie. Moreouer he, that for al the world wil not leaue certaine particular deuotions of his owne, being neuer theles ful of ſenſualitie, of choler, of humane reſpects, and voide of humiltie, charitie and other vertues. But much more he is deceaued, that doth meaſure others by him ſelfe, &amp; eſteeming him ſelf to be better the<g ref="char:cmbAbbrStroke">̄</g> they, doth come to contemne them. Therfore let our chiefeſt eye be alwaies bent to mortification, and to purchaſe other ver<g ref="char:EOLhyphen"/>tues, &amp; let the other be directed to praier, becauſe praier little or nothing auaileth without mortification, nether is mortifi<g ref="char:EOLhyphen"/>cation goten and obteined without praier.</p>
+               <p n="11">11. The eleuenth is, that whe<g ref="char:cmbAbbrStroke">̄</g> thou doeſt feele thy ſelfe much co<g ref="char:cmbAbbrStroke">̄</g>forted, &amp; fauou<g ref="char:EOLhyphen"/>red of almightie God at time of praier, thou then perſuade they ſelf, that thou art prouoked to a greater warre: &amp; ther<g ref="char:EOLhyphen"/>fore thou muſt prepare thy ſelf to fight valiauntlie and manfullie, or to drink ioifullie that calice that God ſhal giue the.</p>
+               <p n="12">12. The twelth is that we muſt not de<g ref="char:EOLhyphen"/>ſite reuelations, viſions, traunces and ſuch
+<pb n="33" facs="tcp:24737:17"/>like things, to th'end we giue no occaſio<g ref="char:cmbAbbrStroke">̄</g> to the illuſions and deceipts of the diule.</p>
+               <p n="13">13. The thirthenth is, that we muſt not diſcouer to euerie bodie the fauours, that God doth aford vs in our praier, but kee<g ref="char:EOLhyphen"/>pe them ſecreate, &amp; diſſemble them in the preſence of others, for daunger of vaine glorie; becauſe ſweete things, the more that they be kept cloſe, the better they be preſerued: and therfore in the preſence of others it is good to abſtaine from wee<g ref="char:EOLhyphen"/>ping, ſobbing, ſighing, &amp; ſuch like things</p>
+               <p n="14">14. The fourtenth is, that albeit almigh<g ref="char:EOLhyphen"/>tie God ſhow vs greate fauours, yet we muſt ſtand before him with greate feare and reuerence, conſidering the goodnes of him, that is ſo delighted with ſo vile a creature. Of which conſideration riſeth loue, and that we put our ſelues in the loweſt place.</p>
+               <p n="15">15. The fifteenth is, that at certaine ti<g ref="char:EOLhyphen"/>mes, as at greate ſolemnities and feſtiual daies, it is good to dilate our ſelues more in praier.</p>
+               <p n="16">16. The ſixteenth is, that in the exerci<g ref="char:EOLhyphen"/>ſes of praier and mortification, we muſt vſe diſcretion, to the end we fall not into extremities. And therfore it is expedient, to giue account of our ſelues to our ghoſtlie father.</p>
+               <p n="17">
+                  <pb n="34" facs="tcp:24737:18"/> 17. The ſeuenteenth is, that manie, whoe eſteeme it ſufficient to giue them ſelues to praier, are withdrawen from other vertues: but they muſt vnderſtand, that all the vertues are vnited and linked one with an other. And therfore in vaine he laboureth for one, whoe labou<g ref="char:EOLhyphen"/>reth not for all.</p>
+               <p n="18">18. The eighteenth is, that although manie haue laide downe manie rules how to make praier, yet when we haue donne al that lieth in vs, we muſt ſet aſi<g ref="char:EOLhyphen"/>de all conſidence of our ſelues, and put it all in God.</p>
+               <p n="19">19. The nineteenth is, that a man is not bound to be alwaies tied to one on<g ref="char:EOLhyphen"/>lie ſort of meditation, but he maie take that for his meditation, wherein he fin<g ref="char:EOLhyphen"/>deth more deuotion, more taſt, and mo<g ref="char:EOLhyphen"/>re profit.</p>
+               <p n="20">20. The twentith is, that, if ſuch things as be requiſite for deuotion, ſeeme vnto vs to be ouer manie; we eſteeme with our ſelues, that God doth wel recompen<g ref="char:EOLhyphen"/>ceour labour with the deuotion it ſelfe, which, if we perſeuer in it, doth leaue vs more comforted and ſtrengthned, then al maner of contentments and pleaſures of the world are able to doe.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="35" facs="tcp:24737:18"/>
+               <head>
+                  <hi>Fruites that come by meditating the paſſion of</hi> IESVS-CHRIST.</head>
+               <head type="sub">CHAP. IIII.</head>
+               <p>SAint Bonauenture ſaith, that we can not offer vnto almightie God a ſa<g ref="char:EOLhyphen"/>crifice more grateful; for the deade a more eſſectual remedie; to the Angels a greater ioie; to the moſt bleſſed Trinitie, a more high ſigne of reuerence and of thank fulnes, then to exerciſe our ſelues continuallie in meditating the paſſion of Ieſus Chriſt.</p>
+               <p>Wherfore on a certaine time, our Sa<g ref="char:EOLhyphen"/>uiour appeared with his croſſe vppon his ſhoulders to an Hermite, whoe deſi<g ref="char:EOLhyphen"/>red verie much to know, what ſeruice he might doe, that might be moſt accepta<g ref="char:EOLhyphen"/>ble to almightie God, and told him, that he could doe him no greater ſeruice, then to beare co<g ref="char:cmbAbbrStroke">̄</g>tinuallie in his hart his croſſe and paſſion, becauſe the remembrance thereof doth woork in vs, that which heere foloweth.</p>
+               <p n="1">1. Compunction and ſorow for our ſinnes;
+<note place="margin">
+                     <hi>Mat.</hi> 27.51.</note> and therfore in the paſſion of our Sauiour the rockes were rent.</p>
+               <p n="2">
+                  <pb n="36" facs="tcp:24737:19"/> 2. It induceth vs to confeſſe our ſinnes: therfore the graues were opened.</p>
+               <p n="3">3. It moueth vs to make ſatisfactio<g ref="char:cmbAbbrStroke">̄</g>, whe<g ref="char:cmbAbbrStroke">̄</g> we ſee that Chriſt doth ſuffer ſo much.</p>
+               <p n="4">4. It purgeth our ſowle from ſinne, as the ſerpent of braſſe did heale thoſe, that were bitten of the liue ſerpents.</p>
+               <p n="5">5. It doth illuminate and lighten our vnderſtanding verie much, as wel to know it ſelf, as God.</p>
+               <p n="6">6. It holdeth vp our hope; in ſomuch that S. Auſten ſaith. O Lord I can not deſpaire, ſeeing thee to die vppon the croſſe for me.</p>
+               <p n="7">7. It inflameth our charitie; and ther<g ref="char:EOLhyphen"/>fore S. Bernard ſaith. Aboue al other things, the chalice, o good IESVS, which thou didſt drinke, and the work of our Redemption, doe make thee amiable vnto me.</p>
+               <p n="8">8. It increaſeth our vertues and meri<g ref="char:EOLhyphen"/>tes, if it be applied ſo, as before hath ben ſaid:
+<note place="margin">
+                     <hi>In the</hi> 1. <hi>chap. the</hi> 9. <hi>reaſon.</hi>
+                  </note> for which cauſe <hi>Albertus</hi> the grea<g ref="char:EOLhyphen"/>te writeth, that the deuoute and feruent remembrance of the paſſion of Chriſt, is more meritorious, then if without it we ſhould whippe our ſelues, euen til the blood doth come.</p>
+               <p n="9">9. It giueth grace and ſtrength in tri<g ref="char:EOLhyphen"/>bulation, wherfore S. Auſten ſaith. In
+<pb n="37" facs="tcp:24737:19"/>al mie aduerſities, I haue not found anie remedie more effectual, then the wounds of Chriſt, in which I ſleepe ſecurelie, and repoſe without feare.</p>
+               <p n="10">10. It is of maruelous efficacie againſt al temptations, and ſo S. Bernard wri<g ref="char:EOLhyphen"/>teth in this ſort. When anie filthie temptatio<g ref="char:cmbAbbrStroke">̄</g> doth aſſault me, I runne to the wounds of Chriſt. When the fleſh doth moleſt me, with this remembrance I riſe againe. When the diule doth laie waite to intrappe me, I haue recourſe to the ſa<g ref="char:EOLhyphen"/>cred wounds of Chriſt, and he forth with fleeth from me. When the heate of car<g ref="char:EOLhyphen"/>nal luſt doth moue mie me<g ref="char:cmbAbbrStroke">̄</g>bres, it is ſud<g ref="char:EOLhyphen"/>dainlie quenched, with calling to mind the wounds of mie ſweete Sauiour.</p>
+               <p n="11">11. It comforteth vs in euerie heauie burden, to which end S. Gregoire ſaith. There is nothing ſo heauie, which we be<g ref="char:EOLhyphen"/>re not willinglie by remembringe the paſſion of Chriſt, figured and ſignified by the woode, which made the bitter waters to become ſweete.</p>
+               <p n="12">12. It doth incite and ſtirre vs vp to fight manfullie, as the Elephantes doe, which, when they ſee theire owne bloud become more coragious, and therfore in the primitiue church were ſo manie martyrs.</p>
+               <p n="13">
+                  <pb n="38" facs="tcp:24737:20"/> 13. It quickneth a faithful ſowle, and giueth her life. So S. Bernard ſaith. O ſtrength that lieth hidden in the death of Chriſt, which giueth life to the dead!</p>
+               <p n="14">14. It filleth our mind with ſweetenes, being as it were a honie-combe.</p>
+               <p n="15">15. It inflameth vs to praiſe God; and therfore the children of Iſrael, hauing paſt thorough the red ſea, began to ſing verie ſweetelie.</p>
+               <p n="16">16. It maketh vs gaine glorie, becauſe the more that one doth remember the paſſion of Chriſt, with affection of cha<g ref="char:EOLhyphen"/>ritie and loue, the more glorie he ſhal haue in heauen, as S. Thomas ſaith. And we reade of a certaine Sainct, that he was ſeene to haue a diamond in his breſt, for a ſingular reward, becauſe he oftentimes did call to mind the paſſion of Chriſt.</p>
+               <p n="17">17. It deliuereth from purgatorie, as wel thoſe that be there, being offred as a ſacrifice for them; as alſo that we our ſelues goe not thither, if this paſſion be wel applied vnto vs.</p>
+               <p n="18">18. It doth prouoke vs exceedinglie to al kind of vertue;
+<note place="margin">
+                     <hi>Io.</hi> 10.18. <hi>Mat.</hi> 26.39. <hi>Mat.</hi> 26.62.</note> for firſt, albeit Chriſt had in his owne power to die, or not to die, yet he falling vppo<g ref="char:cmbAbbrStroke">̄</g> his face praieth his fa<g ref="char:EOLhyphen"/>ther with ſo great feruor. O what humili<g ref="char:EOLhyphen"/>tie! Being take<g ref="char:cmbAbbrStroke">̄</g> by thoſe that came to laye
+<pb n="39" facs="tcp:24737:20"/>hands on him, he reprehended S. Peter,
+<note place="margin">
+                     <hi>Io.</hi> 18.10. <hi>Luc.</hi> 22.51. <hi>Mat.</hi> 26.44. <hi>Io.</hi> 18.4. <hi>Io.</hi> 18.22.23. <hi>Mat.</hi> 26.62.63. <hi>Mat.</hi> 26.63.64. <hi>Io,</hi> 19.28. <hi>Io.</hi> 19.26.27.</note> that drew out his ſword to defend him. O what conſtancie! Malcus is wounded, and he healeth his eare. O what charitie! He ſuffered him ſelf to be kiſt of Iudas, whoe betraied him, and he knew it. O what patience! He was ſtrooken in the face, and he verie mildelie admoniſheth the ſeruant, that ſmote him. O what bo<g ref="char:EOLhyphen"/>untifulnes! He is vniuſtlie accuſed, and holdeth his peace. O what wiſdom! He is adiured by the liuing God, and awn<g ref="char:EOLhyphen"/>ſwereth. O what Religion! He is con<g ref="char:EOLhyphen"/>demned to the croſſe, and ſubmitteth him ſelfe to this wicked ſente<g ref="char:cmbAbbrStroke">̄</g>ce. O what obedience! He dieth for thirſt, and yet drinketh not. O what abſtinence!
+<note place="margin">
+                     <hi>Luc.</hi> 23.39.</note> He commendeth his deere mother to Iohn his beloued diſciple. O what dutiful af<g ref="char:EOLhyphen"/>fection! He is curſed and yet bleſſeth. O what magnanimitie!
+<note place="margin">
+                     <hi>Luc.</hi> 23.43. <hi>Luc.</hi> 23.46.</note> He giueth para<g ref="char:EOLhyphen"/>diſe to the good thiefe. O what magni<g ref="char:EOLhyphen"/>ficence! He giueth vp with a loude voice the ghoſt, in ſigne that he died willinglie for our ſakes. O what ſtrength heroical, ane more then heroical! Al the life of Chriſt was an inſtruction of manners, but his death alone was a flower of al vertue, and a patterne of al perfection; in ſomuch that S. Paule which great reaſon
+<pb n="40" facs="tcp:24737:21"/>ſaid,
+<note place="margin">1. <hi>Cor.</hi> 2.2.</note> that he would not know anie other thing, but Ieſus Chriſt, and him dead, and crucified.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>Of the great obligation, which we haue to God for the benifit of the death and paſ<g ref="char:EOLhyphen"/>ſion of our Sauiour Ieſus Chriſt.</head>
+               <head type="sub">CHAP. V.</head>
+               <p>AS there is no thing, that perteineth more to our ſaluation, then the paſ<g ref="char:EOLhyphen"/>ſion of Chriſt, nor benifit, for which we ought to giue more thankes, nor in which we maie more glorie and co<g ref="char:cmbAbbrStroke">̄</g>fort our ſelues, the<g ref="char:cmbAbbrStroke">̄</g> is this; ſo there is no thing of which we ought to be more mindful, to ſpeake more of, to heare more willing<g ref="char:EOLhyphen"/>lie, &amp; toe think more of then of this ho<g ref="char:EOLhyphen"/>lie paſſio<g ref="char:cmbAbbrStroke">̄</g>: for which we ought to be much more thankful then for our creation, and this for manie reaſons.</p>
+               <p n="1">1. Becauſe if the obligation, which man hath to God, be great, in reſpect that with his onlie woord he created him of nothing; it is vndoubtedlie much greater that he, by the meanes of his death, did repaire and renewe man, whoe, through ſinne, was in a certaine ſort brought to
+<pb n="41" facs="tcp:24737:21"/>leſſe then nothing: becauſe it is in deede a greater matter to reforme a thing wel, then to make it new at the firſt.</p>
+               <p n="2">2. Becauſe God did ſhew far greater loue in the reparation of man, then in the creation of him: for that before man was made, he had donne nothing yet, by which he might deſerue not to be made; but after that he was made and had through ſinne offended God, he deſerued to loſe his firſt being: and therfore this pitie, bountifulnes, benignitie and chari<g ref="char:EOLhyphen"/>tie of God was infinite, when with the death of his owne onlie begoten ſonne, he renewed and reſtored man, whoe had deſerued to be brought to nothing.</p>
+               <p n="3">3. Becauſe in this benifit God hath gi<g ref="char:EOLhyphen"/>ue vs leſus Chriſt, God and man: ſo that how much more he is woorth then al other creatures, ſo much greater is the obligation we haue for Chriſt, then for al other creatures.</p>
+               <p n="4">4. Becauſe by this meanes God deliue<g ref="char:EOLhyphen"/>red man from infinite euils cauſing his ſonne to enter into a bottomles depth of torments, of paines, and of dangers, who with his death did purchaſe for vs innu<g ref="char:EOLhyphen"/>merable goods; ſo that man is bound to God infinitelie for the ſeuen things that folow. <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.Becauſe he hath deliuered him fro<g ref="char:cmbAbbrStroke">̄</g>
+                  <pb n="42" facs="tcp:24737:22"/>infinite euils 2. Becauſe he hath purcha<g ref="char:EOLhyphen"/>ſed for him infinite goods 3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> For the meanes which he hath vſed of the Incar<g ref="char:EOLhyphen"/>nation and paſſion of Chriſt <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. For the infinite loue which induced him to this. <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. For the deſire which he alſo had to ſuffer more for vs: and this was the thirſt that he ſo much endured.
+<milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. Becauſe in this God ſhewed the greateſt loue, that he could declare vnto vs: for ſeeing that man could not ſatisfie for ſinne, if God him ſelf did not becom man, he became man for man, and died alſo for man, ra<g ref="char:EOLhyphen"/>ther than he would ſuffer, that man who was his creature ſhould periſh. O what woonderful maruail?
+<milestone type="tcpmilestone" unit="unspecified" n="7"/> 7. Becauſe man ought to giue him ſelf, and al that he is able to God, as wel becauſe he made him of nothing, as alſo becauſe he renewed him with his death and paſſion; but man not being able to giue him ſelf, if Chriſt doe not help him, and when he ſhould giue him ſelf thouſands and thouſands of times, yet he giueth litle, therefore that man might haue what to giue and repaie to God, for al the benifits, gifts, and graces which he hath receaued, and doth dailie receaue; Chriſt giuing him ſelf to man, and firſt dying vppon the croſſe, giuing him ſelf to his father and
+<pb n="43" facs="tcp:24737:22"/>riſing from death, he gaue him ſelf to man, that man might offer him to God with his merites, or with his infinite loue, as a ſacrifice for his ſinne, and as an oblation for his benifits; and ſo a man maie offer vnto God the Father, the infi<g ref="char:EOLhyphen"/>nite price of the merites of IESVS Chriſt, yea and IESVS Chriſt him ſelf. <milestone type="tcpmilestone" unit="unspecified" n="8"/> 8. Becauſe the benifit of Creation, of Conſeruation and al otherlike, would litle auaile vs without this of our Redemption; and th' other benifits of grace without this, could not be obtained; and therefore when a man doth receaue the grace of God in the holie Sacraments, or when he doth doe, ſpeake, or think anie good, let him remember that Chriſt hath obtained &amp; purchaſed this for him, with his death and paſſion.</p>
+               <div type="part">
+                  <head>The things that ought principallie to be conſidered in the Paſſion of Chriſt.</head>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1 HIs moſt bitter paines, to be hartily ſorie with him. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The greeuouſnes of our ſinnes, to greatlie abhorre &amp; deteſt them. <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. The worthines of the benifit, to giue him exceeding thanks. <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. The ex<g ref="char:EOLhyphen"/>cellencie of Gods goodnes, to loue it with al our hart. <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. The multitude of
+<pb n="44" facs="tcp:24737:23"/>Chriſtes vertues, to imitate and folow them.
+<milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. The co<g ref="char:cmbAbbrStroke">̄</g>gruencie of this miſterie, to admire the wiſdom of God, and to eſtabliſh vs the more in our faith.</p>
+               </div>
+               <div type="part">
+                  <head>Of the greatenes of Christes ſorows and paines.</head>
+                  <p>WE muſt vnderſtand, that if we except (as S. Thomas ſaith) the paines of purgatorie and thoſe of hell, the paines of Chriſt were the greateſt, that euer haue bene, or ſhal euer be endured in this world. <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. In reſpect of his exceeding charitie, the which how much the grea<g ref="char:EOLhyphen"/>ter it was, ſo much the more paine it in<g ref="char:EOLhyphen"/>duced him to ſuffer. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Becauſe his paines were meere and pure paines, that is wi<g ref="char:EOLhyphen"/>thoutanie ſort of conſolation or comfort. <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. For the tendernes of his bodie, which was ſo miraculouſlie formed: &amp; therfo<g ref="char:EOLhyphen"/>re it was more perfect, more delicate and more ſenſible then al other bodies what<g ref="char:EOLhyphen"/>ſoeuer.
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. For the preſence &amp; compaſſion of his mother which increaſed his paines. <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. For the kind of his moſt dolorous death and for the circumſtances of the ſame, which heereafter we ſhall ſee.
+<milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. Becauſe he ſuffred in his bodie, in his good name, in his honour, with ſo manie reproches and diſcommendations; in his ſubſtance
+<pb n="45" facs="tcp:24737:23"/>being naked, and in his frinds whoe did forſake and denie him.</p>
+               </div>
+               <div type="part">
+                  <head>Chriſt ſuffred in al the parts of his bodie.</head>
+                  <p>HIs <hi>head</hi> was crouned with thornes. <hi>His eyes</hi> were couered with teares and blood. <hi>His face</hi> was beraied with ſpittle. <hi>His eares</hi> were enuironed with iniuries and reuilings. <hi>His tounge</hi> was ſiroped with vinagre and gall. <hi>His holie beard</hi> was neere drauen off. <hi>His hands</hi> were paſſed through with nailes. <hi>His ſide</hi> was opened with a ſpeare. <hi>His ſhoul<g ref="char:EOLhyphen"/>ders</hi> were torne with whippes. <hi>His feete</hi> were pearced with hard nailes. <hi>All his bo<g ref="char:EOLhyphen"/>die</hi> was wounded, ſtretched moſt miſe<g ref="char:EOLhyphen"/>rable, and wholie out of ioint. 7. <hi>For the number</hi> of ſo manie and ſo diuers tor<g ref="char:EOLhyphen"/>ments and calamities, as did concurre to<g ref="char:EOLhyphen"/>gether in his paſſion, for he was taken, bound, accuſed, ſcorned, ſpitt vppon, buffeted, crouned with thornes, ſtricken with a reede, blinfolded, ſtripped naked, blaſphemed, charged with his croſſe, and led and haled from one iudgment ſeate to an other, as if he had ben a publique malefactour; finallie he was crucified, dead, and buried.</p>
+               </div>
+               <div type="part">
+                  <pb n="46" facs="tcp:24737:24"/>
+                  <head>That which we ought to gather out of theſe paines.</head>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. HOw filthie &amp; malicious a thing ſinne is, ſith Chriſt endured ſo much to deſtroie it: for in what man<g ref="char:EOLhyphen"/>ner could God ſhew a more greate ſigne of hatred againſt ſinne, then by deliuering his owne ſonne to death, to aboliſh ſinne?
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. How grieuous the paines and torments of hell be; for ſo<g ref="char:EOLhyphen"/>much as to deliuer vs from them, Chriſt would enter into a bottomles depth of paines &amp; ſorowes.
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. How paſſing great the riches of grace and of glorie be, when as there was neede of ſuch merite to purchaſe them.
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. The exceeding di<g ref="char:EOLhyphen"/>gnitie of man, and the paſſing value of his ſowle, ſeeing God hath giuen for it ſo noble à price.
+<milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. How good, how pitiful, and ſweete God is.</p>
+               </div>
+               <div type="part">
+                  <head>How the goodnes, the charitie, the mercie, and the iustice of God doth appeare in the Paſſion of Christ.</head>
+                  <p>To the goodnes of frindſhip it pertei<g ref="char:EOLhyphen"/>neth to communicate &amp; giue a ma<g ref="char:cmbAbbrStroke">̄</g>s ſelf to his frind: but now, what greater
+<pb n="47" facs="tcp:24737:24"/>goodnes maie there be found; then that of almightie God, whoe arriued to make him ſelf one thing with man, and to ſuf<g ref="char:EOLhyphen"/>fer ſo much for him, as he did?</p>
+                  <p>To loue it perteineth to doe good to the thing beloued; but what loue is greater then that of God, whoe died for mans ſake, to make him partaker of al his good?</p>
+                  <p>To mercie it perteineth to take vppon our ſelues other mens miſeries: nowe what greater miſerie could Chriſt take vppon himſelf, then to die with ſo greate paines and ſhame for our ſinnes?</p>
+                  <p>To iuſtice it perteineth to puniſh of<g ref="char:EOLhyphen"/>fences; but what iuſtice is more greate then that of God, which puniſhed ſinne in the perſon of his owne Sonne?</p>
+               </div>
+               <div type="part">
+                  <head>How he that doth meditate the paſſion be<g ref="char:EOLhyphen"/>cometh ful of vertue.</head>
+                  <p>WHoe is he that wil not become hum<g ref="char:EOLhyphen"/>ble, ſeeing the onlie So<g ref="char:cmbAbbrStroke">̄</g>ne of God to be leſſe eſteemed then Barrabbas, &amp; to be crucified betwixt two thieues? Whoe wil not be patient, beholding the in<g ref="char:EOLhyphen"/>uincible patience of Chriſt, his ſo great contumelies and iniuries, ſo great paines and ſorows? Whoe wil not be obedient,
+<pb n="48" facs="tcp:24737:25"/>ſeeing Chriſt is become obedient euen to the croſſe? Whoe wil liue anie longer in pleaſures, beholding Chriſt in ſo manie torments? Whoe wil eſteeme wealth, ri<g ref="char:EOLhyphen"/>ches, and other things of the world, ſeeing Chriſt to be naked vppon the Croſſe? Whoe wil not perſeuer in good<g ref="char:EOLhyphen"/>nes and vertue, ſeeing that Chriſt ſo per<g ref="char:EOLhyphen"/>ſeuered in his paines and torments euen til death? Whoe wil not forgiue his eni<g ref="char:EOLhyphen"/>mies, ſeeing Chriſt forgiueth thoſe that tooke awaie his garments, his good name, his life; and not onlie forgiueth them, but alſo praieth for them?</p>
+                  <p>Let vs then giue moſt hartie thanks to our Lord God for this ſo great a benefit, to wit for al that which in it he gaue vs, for al that which it did coſt him, &amp; much more for that he did ſo exceedinglie loue vs, becauſe his loue towards vs was far greater then was that which he endured for vs, in ſo much that he would haue ſuffered more, if more had bene needefull. Let vs giue our ſelues erneſtlie to meditate the paſſion of our Sauiour Chriſt, remouing awaie from vs whatſoeuer maie hinder the ſame, and let vs procure to reape thereby that frute which we ought, to his diuine honour and glorie.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="49" facs="tcp:24737:25"/>
+               <head>Of the partes of meditation.</head>
+               <head type="sub">CHAP. VI.</head>
+               <p>THe partes of meditation be foure; that is <hi>Preparation, Repreſentation, Conſideration,</hi> and <hi>Praier.</hi>
+               </p>
+               <p>
+                  <hi>Preparation</hi> is a certaine ſhort eleua<g ref="char:EOLhyphen"/>tion &amp; lifting vp of our mind which we make in the preſence of almightie God, &amp; with which we inuoke firſt his diuine help, that we maie make our praier wel &amp; as we ought. Then after this we think a little vppon that which we goe to doe, which is the greateſt thing in the world, for ſo much as we goe to worſhip, to thanke, and to praie almightie God; to worſhip him for his maieſtie which is infinite, to thank him for his wonder<g ref="char:EOLhyphen"/>ful woorks of our creation, redemption, and iuſtification, to praie him for our owne neceſſities and thoſe of the holie Catholique Churche. And what thing is there more reaſonable, more worthie &amp; more neceſſarie then this?</p>
+               <p>
+                  <hi>Repreſentation</hi> is nothing els but to imagine the miſterie vppo<g ref="char:cmbAbbrStroke">̄</g> which we be to meditate, as if now we did ſee it donne before our eyes, forming to our ſelues the
+<pb n="50" facs="tcp:24737:26"/>place where it is donne, the thing it ſelfe which is donne, and the perſonnes that doe it. As for example in the miſterie of the crucifying of our Sauiour, to ſet be<g ref="char:EOLhyphen"/>fore oure imagination the mount Cal<g ref="char:EOLhyphen"/>uarie, the Croſſe, &amp; the Crucifixe which guſheth out bloud on euerie ſide.</p>
+               <p>
+                  <hi>Conſideration</hi> is meditation it ſelfe, which is a woorke of our vnderſta<g ref="char:cmbAbbrStroke">̄</g>ding, with which we diſcourſe vppon the pre<g ref="char:EOLhyphen"/>ſent miſterie, conſidering dulie the cir<g ref="char:EOLhyphen"/>cumſta<g ref="char:cmbAbbrStroke">̄</g>ces of the ſame, and po<g ref="char:cmbAbbrStroke">̄</g>dering with our ſelues who he is that ſuffereth, what he ſuffereth for whom, &amp; in what ſort; &amp; ſomtimes conferring one thing with an other, and procuring alwaies to drawe ſom affections of loue, ſorow, or the like as the miſterie ſhall giue vs occaſion.</p>
+               <p>
+                  <hi>Praier</hi> foloweth laſt in the end of me<g ref="char:EOLhyphen"/>ditation, in which a man as it were now in wardlie inflamed talketh with almigh<g ref="char:EOLhyphen"/>tie God, or with Chriſt crucified as if he had him there preſent, praiſing him, than<g ref="char:EOLhyphen"/>king him, worſhipping him, diſcoue<g ref="char:EOLhyphen"/>ring vnto him his owne defects and ne<g ref="char:EOLhyphen"/>ceſſities, deſiring him to pardon them, and with obſecration to requeſt him of his grace, of his gifts, and of ſuch ver<g ref="char:EOLhyphen"/>tues as be needful for his ſaluation.</p>
+               <p>
+                  <hi>Obſecration</hi> is nothing els but praying
+<pb n="51" facs="tcp:24737:26"/>of almightie God by ſacred and holie things; as by his pretious wounds, by his bleſſed mother, by his Saincts, by his paſſion, merites, and ſuch other like things, which be of greate efficacie and force, to make vs obtaine that which we demaund.</p>
+               <div type="part">
+                  <head>Certaine things that we ought to conſider in euerie misterie of the paſſion, which be of exceeding great maruel and compaſſion.</head>
+                  <p>NOte that in all the miſteries of the paſſion of our Sauiour Chriſt, we haue to conſider fower things. 1.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> That he that ſuffereth is the ſonne of God, equal to the father, of whome nothing can be thought more greate, nor better, nor more excellent 2.
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> That that which he ſuffereth is a thing moſt grieuous and painful, and for the moſt part ſo ſhame<g ref="char:EOLhyphen"/>ful, that it is able to make anie one ama<g ref="char:EOLhyphen"/>zed whoſoeuer he be that doth wel con<g ref="char:EOLhyphen"/>ſider it. 3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> That he ſuffereth for me, whoe ought to eſteeme mie ſelfe the moſt vile, and moſt vngrateful creature that is vp<g ref="char:EOLhyphen"/>pon the earth. 4. <milestone type="tcpmilestone" unit="unspecified" n="4"/> That he ſuffereth not for anie neceſſitie of his owne, nether becauſe he did foreſee anie good in me that might deſerue it, but onlie of his
+<pb n="52" facs="tcp:24737:27"/>owne charitie, of his owne pittie, and of his owne mercie.</p>
+                  <p>It is alſo verie profitable to think with our ſelues, that whileſt Chriſt ſuffered the paine of which we doe meditate, he had a moſt ſwete remembrance and com<g ref="char:EOLhyphen"/>paſſion of vs, for whoſe ſake he offered vp vnto his eternal father all that which he then did endure. And therefore it is verie behoueful that we alſo with an humble and pitiful hart offer the ſame as a moſt ſweete ſacrifice to the diuine maieſtie.</p>
+               </div>
+               <div type="part">
+                  <head>The first misterie of the agoine of Chriſt in the garden.</head>
+                  <p>HEere we muſt firſt praie our Lord that he giue vs grace to meditate this miſterie ſo worthilie as we ought. Secondlie we muſt ponder the place, the perſons, and the fact of this miſterie. Thirdlie we muſt ponder with greate attention thoſe fouer poincts before mentioned, to wit whoe ſuffereth, what he ſuffereth, for whome, and to what end, and in what ſort. And theſe three things heere noted we muſt alſo obſerue in all the meditations that folowe.</p>
+               </div>
+               <div type="part">
+                  <pb n="53" facs="tcp:24737:27"/>
+                  <head>The poincts to be conſidered of.</head>
+                  <p>AFter we haue reade the hiſtorie in S. Matthew chap. 26. verſ. 36. and in S. Luke chap. 22. verſ. 39. and thoſe that folowe; we muſt co<g ref="char:cmbAbbrStroke">̄</g>ſider 1. the greate loue of our Lord IESVS Chriſt towards vs, whoe for our ſakes did ſweate bloud, &amp; to heale our infirmities vouchſafed to drink ſo bitter a chalice, that we might with him drink a moſt ſweete cup in the glorie of heauen.</p>
+                  <p n="2">2. We muſt conſider the grieuous pai<g ref="char:EOLhyphen"/>nes, and bitter angwiſhes, and the agonie neuer ſeene nor heard of before, which he endured.</p>
+                  <p n="3">3. The great humilitie and reuerence, with which he did praie his eternall fa<g ref="char:EOLhyphen"/>ther, ſhewing him his bloud, and the moſt wonderful and dollourous ſpecta<g ref="char:EOLhyphen"/>cle, that euer was or ſhall be ſeene in this wide woorld.</p>
+                  <p n="4">4. The manner of his praier, and the moſt perfect reſignation of him ſelfe into the hands of his father, not willing that anie other thing ſhould be donne of him, then that which was the pure and right will of God.</p>
+                  <p n="5">5. His perſeuerance in praier in the
+<pb n="54" facs="tcp:24737:28"/>like manner, and that as he found him ſelf in greater agonie, he praied the lon<g ref="char:EOLhyphen"/>ger. For this he was comforted, and ſtrengthened by an Angel, heard of his father, and went verie couragiouſlie to meete his enimies.</p>
+               </div>
+               <div type="part">
+                  <head>Here folow fiue poincts, to moue vs to con<g ref="char:EOLhyphen"/>fuſion and ſhame of our ſelues.</head>
+                  <p n="1">1. THat for the loue of God we ha<g ref="char:EOLhyphen"/>ue not yet ſhed as much as one droppe of bloud, no nor reſiſted the leaſt temptation.</p>
+                  <p n="2">2. That we be ſo farre of from ſuffe<g ref="char:EOLhyphen"/>ring for his loue, ſo diligent to beridde our ſelues of whatſoeuer paſſion of our bodie, and ſo negligent to mortifie the paſſions of the ſowle.</p>
+                  <p n="3">3. That we haue ſo little care of our ſaluation, of which Chriſt our Sauiour was ſo careful.</p>
+                  <p n="4">4. That we be ſo ſlowe to haue re<g ref="char:EOLhyphen"/>courſe to God in our tribulations and afflictions, ſo faint-harted, and ſo litel re<g ref="char:EOLhyphen"/>ſigned to the wil of God.</p>
+                  <p n="5">5. That we be ſo impatient in praying, and that ſo ſoone we leaue of for euerie litle thing which cauſeth in vs diſtra<g ref="char:EOLhyphen"/>ction, paine, and vexation.</p>
+               </div>
+               <div type="part">
+                  <pb n="55" facs="tcp:24737:28"/>
+                  <head>The petition that we maie make to God.</head>
+                  <p>WHen we haue conſidered the fore<g ref="char:EOLhyphen"/>ſaid poincts, and giuen thankes to our Lord for his paſſing greate loue, we maie requeſt him grace to haue alwaies recourſe to his helpe in our tribulations, vſing the ſelf ſame manner of pray<g ref="char:EOLhyphen"/>ing, that our Sauiour IESVS Chriſt did vſe.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>O Mie Lord IESVS Chriſt, I beſeeche thee by that ſorow &amp; griefe which thou didſt feele in the garden, by that bloud which thou diddeſt ſweate, by that feruent and inflamed praier which thou didſt make, and aboue al this, by that infinite loue which induced thee to al theſe things (which al I offer now for euer to thie eternal father) that thou wilt vouchſafe to graunt me the gift of praier, and that I make ſpeede to thee in al mie afflictions: that I hope onlie in thee and ſaie alwaies, father if it be poſſible, let this chalice paſſe from me, if not, not mi<g ref="char:EOLhyphen"/>ne, but thie moſt holy wil be donne.</p>
+               </div>
+               <div type="part">
+                  <pb n="56" facs="tcp:24737:29"/>
+                  <head>What we must doe when meditation is ended.</head>
+                  <p>WE muſt craue pardon of God for the negligence vſed in praier and medi<g ref="char:EOLhyphen"/>tation, ſaying to this end one <hi>Pater noſter,</hi> and one <hi>Aue Maria;</hi> and we muſt often<g ref="char:EOLhyphen"/>times in the daie think of thoſe poincts and things which we haue meditated.</p>
+               </div>
+               <div type="part">
+                  <head>The ſecond misterie, how Iudas one of his diſciples ſold and betraied him.</head>
+                  <p>THe hiſtorie of this we may reade in S. Matthew chap. 26. verſ. 14. and 47. in S. Mark. 14.10. in S. Luke 22.3. and in S. Iohn 18.3. And heere we muſt obſerue diligentlie in the manner of our meditatio<g ref="char:cmbAbbrStroke">̄</g>, thoſe things which ar ſet doune in the beginning of the former meditatio<g ref="char:cmbAbbrStroke">̄</g> and maie not be omitted in theſe that folowe.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. THe onlie ſonne of God is ſold. Of whome? Of one of his diſciples, vppon whome he had beſtowed ſo many and great benifits, &amp; a little before giuen him to eate his owne body and bloud. For how little price? for thirtie peeces of
+<pb n="57" facs="tcp:24737:29"/>ſyluer. To whome? To his moſt cruell enimies. In what manner? with a kiſſe a token of frindſhippe. At what time? At the feaſt of paſche when all the Iewes were accuſtomed to goe to Ieruſalem.</p>
+                  <p n="2">2. The great loue with which he ſo kindlie imbraced his traitour, and the care he had to ſaue him.</p>
+                  <p n="3">3. The readineſſe with which he went forth to encounter his enimies.</p>
+                  <p n="4">4. The mildnes with which he did ſpeake to them; and call Iudas his frind.</p>
+                  <p n="5">5. The patience in ſuffering him ſelf to be bound, ſtrooken, and illuded of ſuch ſort of people: thinking our ſelues to be preſent.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of confuſion for vs.</head>
+                  <p n="1">1. THat wee ſeeke not to kiſſe, but rather to bite thoſe that doe vs any diſpleaſure, yea ſomtimes to doe worſe then bite them.</p>
+                  <p n="2">2. That ſo many times we haue betraied Chriſt for leſſe price then Iudas did.</p>
+                  <p n="3">3. That we take ſo grieuouſlie the tri<g ref="char:EOLhyphen"/>bulations which God doth ſend vs.</p>
+                  <p n="4">4. That we ſpeake ſo roughlie, and be ſo hard to our neighbours.</p>
+                  <p n="5">5. That we ſhew ſo great impatience in
+<pb n="58" facs="tcp:24737:30"/>our euills, be they neuer ſo little, and doe ſo little accuſtome our ſowle to ſuf<g ref="char:EOLhyphen"/>fer for Chriſt, knowing neuertheles how much he hath ſuffered for vs.</p>
+               </div>
+               <div type="part">
+                  <head>The petition.</head>
+                  <p>TO demaund grace at Gods hands that we may imbrace tribulations as he did imbrace Iudas, that is as a frind and not an enimie, as good and not euill, as ſent vs from God, not from men.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>O My Sauiour IESVS Chiſt, by that loue which moued thee to imbra<g ref="char:EOLhyphen"/>ce ſo kindlie, and to kiſſe ſo ſweetlie the traitour Iudas, graunt me grace that I, with like alacratie and readines of mind, imbrace whatſoeuer croſſe it ſhall pleaſe thee to laie vppon me as thy gift, ſent me for my great good with moſt ſweete and tender loue, and that I alwaies render good for euill to thoſe that offend me, for thy holy names ſake. Amen. In the end doe as before in the firſt medita<g ref="char:EOLhyphen"/>tion.</p>
+               </div>
+               <div type="part">
+                  <pb n="59" facs="tcp:24737:30"/>
+                  <head>The third myſterie.</head>
+                  <p>HOw Chriſt was ſo manie times bound, and lead thorough the ſtreetes of Ieruſalem as a theefe, where yet he had wrought ſo manie miracles. Nether do we read that euer ſuch iniu<g ref="char:EOLhyphen"/>ries were vſed to ſuch a perſonage. Heere thou muſt conſider diligentlie this affai<g ref="char:EOLhyphen"/>re, the perſons and that which they doe, as iff thou were preſent at it; and think what thou wouldeſt haue donne, yf kno<g ref="char:EOLhyphen"/>wing Chriſt to be the ſonne of God, thou hadſt ſeene him ſo miſuſed with thine owne eyes.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of meditaton.</head>
+                  <p n="1">1. THe great loue that onlie held our Sauiour bound.</p>
+                  <p n="2">2. The great paine that he felt, being ſo ſtraitlie bound.</p>
+                  <p n="3">3. The ſhame to be ſo lead like a thee<g ref="char:EOLhyphen"/>fe in that place, where he had wrought ſo manie and wounderous miracles, and where the ſundaie before, he was recea<g ref="char:EOLhyphen"/>ued with ſo great honour.</p>
+                  <p n="4">4. His iuincible patience in ſo many vp braidings and outrages.</p>
+                  <p n="5">
+                     <pb n="60" facs="tcp:24737:31"/> 5. The ingratitude of the Iewes, whoe had receaued ſo many benifits of Chriſt.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of confuſion for vs.</head>
+                  <p n="1">1. THat my ſinnes did bind him more ſtraitlie then thoſe bonds.</p>
+                  <p n="2">2. That I doe not let my ſelfe be bound with ſo exceſſiue loue of his, that cauſed him to be bound ſo hardlie for me: and that yet I ſuffer my ſelf to be bound with the loue of this world, and the vanities thereof.</p>
+                  <p n="3">3. That ſo oftentimss I haue ben aſha<g ref="char:EOLhyphen"/>med to doe well, againſt the promiſe that I made when I was baptized.</p>
+                  <p n="4">4. That I cannot endure as much as the byting of a flea for his loue, and yet doe ſuffer ſo much for my fleſh and for the world.</p>
+                  <p n="5">5. That I am forgetfull of ſo great a be<g ref="char:EOLhyphen"/>nifit, and ſo ſingular loue.</p>
+               </div>
+               <div type="part">
+                  <head>The petition.</head>
+                  <p>TO requeſt grace that we maie be alwaies ioined with his diuine maieſtie by holy loue; by thoſe his bonds paines, outrages, and aboue all by his moſt vnſpeakeable loue.</p>
+               </div>
+               <div type="part">
+                  <pb n="61" facs="tcp:24737:31"/>
+                  <head>The praier.</head>
+                  <p>MY Sauiour IESVS Chriſt, I beſeeche thee by thoſe hard bonds with which thou waſt bound, by thoſe paines which then thou didſt ſuffer in thy moſt holy hands, by that grieuous reproach which was donne to thee in taking thee as a theefe, and aboue all by that inflamed loue which alone did bind thee; I beſee<g ref="char:EOLhyphen"/>che thee, I ſay, by all theſe things to be<g ref="char:EOLhyphen"/>ſtow this grace vppon me, that I be ſo bound with thy diuine maieſty thorough holy and feruent loue, that nothing maie ſeparate me from thee: in ſomuch that I may be able to ſaie with the Apoſtle S. Paul.
+<note place="margin">
+                        <hi>Rom.</hi> 8.</note> 
+                     <hi>Whoe ſhall ſeparate me from the cha<g ref="char:EOLhyphen"/>ritie of Chriſt? tribulation? or distreſſe? or famine? or nakednes? or danger? or perſe<g ref="char:EOLhyphen"/>cution? or the ſword? I am ſure that nei<g ref="char:EOLhyphen"/>ther death nor life, nor Angels, nor Prin<g ref="char:EOLhyphen"/>cipalities, nor Powers, neither things pre<g ref="char:EOLhyphen"/>ſent, nor things to come, neither might, nor height, nor depth, nor other creature, ſhall be able to ſeparate me from the charitie of God, which is in Christ IESVS our Lord.</hi> In the end yow muſt conclude as before bath ben ſaid.</p>
+               </div>
+               <div type="part">
+                  <pb n="62" facs="tcp:24737:32"/>
+                  <head>The fourth mysterie.</head>
+                  <p>THe lasſhes that our Sauiour had at the pillar, which were without number, moſt painfull, cruell and onlie fit for ſuch as were infamous perſons. Some ſay that he receaued ſix thouſand, ſix hundred ſixtie and ſix ſtripes, which neuertheles according to the lawe ſhould not haue paſſed the number of fortie. Nether was there ſo great crueltie vſed towards the two thieues, nor is it written that to ſuch a man like things haue ben donne by any people, were they neuer ſo barbarous.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. THink heere that thou ſeeſt thy Sauiour full of ſorow and ſhame, and that he ſaith to thee theſe words: All this doe I ſuffer willinglie for thy ſake.</p>
+                  <p n="2">2. That he ſaith to thee: behold to what point thy vanitie, thy ſinnes, and thy pride haue brought me.</p>
+                  <p n="3">3. The loue that alone held him ſo faſt bound to the pillar.</p>
+                  <p n="4">4. The ſhame that he had, and the pai<g ref="char:EOLhyphen"/>nes
+<pb n="63" facs="tcp:24737:32"/>that he ſuftered of thoſe infamous people.</p>
+                  <p n="5">5. The wounderfull patience and mildnes of Chriſt, and the vnaccuſtomed crueltie of thoſe wicked catchpoll, and purſeuants.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of confuſion for vs.</head>
+                  <p n="1">1. THat we be ſo little aunſwerable to ſo paſſing great loue.</p>
+                  <p n="2">2. That we be ſo little ſory for the ſa<g ref="char:EOLhyphen"/>me, feeling neuertheles griefe inough, and that ſoone alſo for the leſt things of this world.</p>
+                  <p n="3">3. That our ſenſualitie and worldlie pleaſures, were thoſe that did bind him to the pillar and whippe him, and that yet we be ſo ſenſuall.</p>
+                  <p n="4">4. That we be aſhamed to doe well, and to ſpeake of God, where Chriſt was not aſhamed to be bound, and to be cruellie whipt at the pillar all naked.</p>
+                  <p n="5">5. That ſo manie times we haue ſcour<g ref="char:EOLhyphen"/>ged with our ſinnes, him whoe is now ſo glorious in heauen, and yet we make ſo little accoumpt hereof.</p>
+               </div>
+               <div type="part">
+                  <pb n="64" facs="tcp:24737:33"/>
+                  <head>The petition.</head>
+                  <p>TO ſeeke for grace that we maie be able to take all ſcourges as from Gods hands and to ſtand ſtrong in them, as our Sauiour Chriſt ſtoode at the pillar.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>I Humble praie thee, o my Lord IESVS Chriſt by thoſe thy moſt cruell ſtri<g ref="char:EOLhyphen"/>pes, by thoſe grieuous paines, by that pretious bloud, which then thou didſt ſhed in ſo great abundance, and aboue all by that moſt inward loue, which mo<g ref="char:EOLhyphen"/>ued thee to ſuffer theſe things, to giue me grace that I take all aduerſities as from thy holy hands, &amp; beare them with that ſtrength of mind, as thou didſt beare thoſe ſo manie and ſo grieuous ſtripes, that thy holy name be praiſed and glori<g ref="char:EOLhyphen"/>fied foreuer and euer. Amen. <hi>Pater noſter. Aue Maria.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The fift myſterie.</head>
+                  <p>OF the inuention of the Crowne, a torment that at the ſame time cauſed greate paine and diſhonour, which it ſee<g ref="char:EOLhyphen"/>meth
+<pb n="65" facs="tcp:24737:33"/>the diule himſelf could not haue found: nether doe we read that euer there was vſed ſo great crueltie. Think to be preſent at this action, and conſider the fowr things before named.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. THe great paine that Chriſt felt at that time.</p>
+                  <p n="2">2. How great the loue was that moued him thereunto.</p>
+                  <p n="3">3. That he was wounderfullie aſha<g ref="char:EOLhyphen"/>med (it being a thing verie diſhonorable) as thou thy ſelf alſo wouldeſt haue bene.</p>
+                  <p n="4">4. That all this was donne by thoſe people, vppon whome he had beſtowed ſo many benifits.</p>
+                  <p n="5">5. With how great humilitie, patien<g ref="char:EOLhyphen"/>ce, mildnes, modeſtie and ioy of heart he ſupported all this for loue of vs.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of confuſion for vs.</head>
+                  <p n="1">1. THat our pride did crowne him then, and doth yet alſo crowne him oftentimes with thornes.</p>
+                  <p n="2">2. That we cannot endure as much as one word againſt our reputation
+<pb n="66" facs="tcp:24737:34"/>and honour, and that yet we endure ſo many againſt the honour of God.</p>
+                  <p n="3">3. That we be ſo much forgetfull and vngratefull for ſo great loue.</p>
+                  <p n="4">4. That we be ſo far of from ſuffering for Chriſt, and ſo little deſirous thereof, and in this point altogeather vnlike to him.</p>
+                  <p n="5">5. That for very trifling things and of ſmall importance we become ſo impa<g ref="char:EOLhyphen"/>tient, ſo angrie, and ſo arrogant.</p>
+               </div>
+               <div type="part">
+                  <head>The petition.</head>
+                  <p>TO demaund an inflamed deſire to ſuffer for Chriſt, to abhorre all pri<g ref="char:EOLhyphen"/>de and vanitie, to eſteeme the pleaſures of the world as thornes, and not to wiſh that vnder a thornie head there be de<g ref="char:EOLhyphen"/>licate members.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>O My Lord IESVS Chriſt by that crowne of thornes I pray thee, &amp; by thoſe thy paines and ſhame I beſee<g ref="char:EOLhyphen"/>che thee, as alſo by thy moſt ſweete loue which was cauſe of al this, I requeſt thee, to giue me a moſt inflamed deſire to ſuf<g ref="char:EOLhyphen"/>fer much for thee; to caſt a waie from me
+<pb n="67" facs="tcp:24737:34"/>all ſenſuall and vaine pleaſure, and to ab<g ref="char:EOLhyphen"/>horre that thy pretious head be crowned with thornes, and yet my members be vſed to delices, that thou be ſcorned and I honoured, thou weepe and I laugh ſo diſorderedlie: graunt me therfore, that I haue alwaies before mine eys thy crow<g ref="char:EOLhyphen"/>ne of thornes, thy ſorows and paines, &amp; aboue all thy moſt heartie loue with which thow didſt ſuffer ſo much for me miſerable ſinner, that I may continuallie beare thee in my heart and praiſe thee for euer and euer. Amen. <hi>Pater noster. Aue Maria.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The ſixth myſterie.</head>
+                  <p>TOuching ſo manie ſorts of calum<g ref="char:EOLhyphen"/>nies, iniuries and words, donne and ſpoken at one time, and amongſt others.</p>
+                  <p n="1">1. So manie filthie ſpittles, with which they berayed his moſt holy face.</p>
+                  <p n="2">2. So manie buſſets giuen him vppon his face by people ſo miſerable, infamous and vile.</p>
+                  <p n="3">3. So manie ſorts of garments where<g ref="char:EOLhyphen"/>with they did apparell him now in white, now in redd, as if he had ben a verie foole.</p>
+                  <p n="4">
+                     <pb n="68" facs="tcp:24737:35"/> 4. The blindfolding of his ſacred face, and the ſtriking him ſaying, Pro<g ref="char:EOLhyphen"/>phecie vnto vs, whoe is he that ſtrooke thee.</p>
+                  <p n="5">5. The apparelling him with a purple robe and a reede in his hand, ſtriking his head, mocking him, and calling him king.</p>
+                  <p n="6">6. Of ſo manie falſe witneſſes laid againſt him.</p>
+                  <p n="7">7. Of diuulging him ſo often for a ſeducer of the people, through all the ſtreetes of the cittie, where before he had ben receaued with ſo great ho<g ref="char:EOLhyphen"/>nour.</p>
+                  <p n="8">8. To haue ben ſcorned at ſo manie waies by diuers ſorts of perſons, great and little; riche and poore; prieſts and laymen; lewes and Gentills; yea and of thoſe alſo whoe not long agoe had receaued great benifits at his hands.</p>
+                  <p>Heere we ought in deede to conſider very well 1. whoe is he that ſuffereth all theſe things. 2. that which he ſuffe<g ref="char:EOLhyphen"/>reth. 3. for whome he ſuffereth. 4. wher<g ref="char:EOLhyphen"/>fore he ſuffereth.</p>
+               </div>
+               <div type="part">
+                  <pb n="69" facs="tcp:24737:35"/>
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. TO wounder that at one time the Iewes could find out ſo diuers kinds of paines, woords, reproaches, and iniuries.</p>
+                  <p n="2">2. To maruaile much more at the loue of Chriſt, the Iewes not being able to inuent ſo manie torments, as he was readie to endure.</p>
+                  <p n="3">3. The admitable ſilence he held in ſo manie outrages donne vnto him.</p>
+                  <p n="4">4. The inuincible patience, wounder<g ref="char:EOLhyphen"/>full mee<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nes, and incredible force of heart which he had.</p>
+                  <p n="5">5. That the Iews did fight with theire malice and wickednes, and Chriſt, with his goodnes and pietie.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of confuſion for vs.</head>
+                  <p n="1">1. O How manie more greate paines doe we Chriſtians now find out againſt him, then the Iews did then.</p>
+                  <p n="2">2. That we for whome Chriſt ſuffe<g ref="char:EOLhyphen"/>red, at become companions to the Iews againſt him.</p>
+                  <p n="3">3. That we doe ſo much feele it, when we ar forced to ſuffer a little.</p>
+                  <p n="4">4. That we poore wormes will not,
+<pb n="70" facs="tcp:24737:36"/>that as much as a woord be ſpoken to diſpleaſe vs, nor the leaſt haire of our head touched, where ſo manie things haue bene vttered and donne againſt Chriſt.</p>
+                  <p n="5">5. That we be ſo vnlike to Chriſt in our life and manners, and that we will be named his folowers.</p>
+               </div>
+               <div type="part">
+                  <head>The Petition.</head>
+                  <p>TO demaund grace not to eſteeme the iudgment of the world; and to endure all ſort of iniuries, and to be ac<g ref="char:EOLhyphen"/>cou<g ref="char:cmbAbbrStroke">̄</g>pted as fooles for the loue of Chriſt, ſeeing that he for our loue was not a<g ref="char:EOLhyphen"/>ſhamed, to be held as a foole and an in<g ref="char:EOLhyphen"/>famous perſon.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>O My Lord IESVS Chriſt, I beſeeche thee by thoſe ſo manie iniuries donne to thee at the ſame time, by thoſe diſhonours and torments which thow didſt ſuffer, and by thy burning loue, to beſtow this grace vppon me, that I alſo may endure ſuch iniuries for loue of thee, and hold it for a moſt ſingular fa<g ref="char:EOLhyphen"/>uour, to be eſteemed as a foole for thee
+<pb n="71" facs="tcp:24737:36"/>and know that true Chriſtian wiſdome is to doe good and ſuffer euill, and to be accoumpted as a fole for thy ſake, o my Sauiout. <hi>Pater</hi> and <hi>Aue.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The ſeuenth myſterie.</head>
+                  <p>TO haue left him for Barabbas a ſe<g ref="char:EOLhyphen"/>ditious fellow and publique man<g ref="char:EOLhyphen"/>queller, infamous and wicked, eſteeming him more vnworthie of life then an open murtherer, which was one of the grea<g ref="char:EOLhyphen"/>teſt iniuries, that the Iews could doe to our Sauiour.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. TO be aſtoniſhed that the Iews held Chriſt in ſo ſmall accoumpt, he being of life moſt holie, of doctrine moſt diuine, and of miracles moſt woun<g ref="char:EOLhyphen"/>derfull, and one that in all times had done for euerie bodie moſt exquiſite offices, and they making leſſe reckoning of him then of a ſeditious fellow, a murtherer, and a wicked man.</p>
+                  <p n="2">2. To wounder at the great humilitie of Chriſt, whoe ſuffered him ſelf to be compared with Barabbas, and leſſe eſtee<g ref="char:EOLhyphen"/>med then he.</p>
+                  <p n="3">
+                     <pb n="72" facs="tcp:24737:37"/> 3. To admire his open confuſion, when being naked, whipped, bloudie, and ſo yll vſed, he was ſhewed to the people.</p>
+                  <p n="4">4. To maruell at the chaunge of the people, that cried Crucifie him, Crucifie him, hauing cried the Sundaie before, Bleſſed is he that commeth in the name of our Lord.</p>
+                  <p n="5">5. To wounder at the peruerſe iudg<g ref="char:EOLhyphen"/>ment of the world, which preferreth the guiltie before the guiltleſſe, euill before good, and Barrabbas before Chriſt.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of confuſion for vs.</head>
+                  <p n="1">1. HOw oftentimes haue we prefer<g ref="char:EOLhyphen"/>red the loue of the world, which is Barabbas, before that of God? that is to ſaie our will before his.</p>
+                  <p n="2">2. That we be ſo highlie offended when we ar not compared with men of qualitie.</p>
+                  <p n="3">3. That we be ſo much aſhamed to doe good for reſpect of others; and of whome in the end? of the miſerable world.</p>
+                  <p n="4">4. That we doe ſo ſoone feele things much leſſe then theſe.</p>
+                  <p n="5">5. That we doe ſo greatlie eſteeme the
+<pb n="73" facs="tcp:24737:37"/>iugdment of this world, and ſo little that of God: and in our dooings haue chiefelie regard of that which the world will ſay, and not of that which God will ſaye.</p>
+               </div>
+               <div type="part">
+                  <head>The petition.</head>
+                  <p>TO requeſt the grace not to eſteeme the iudgment of this world, ſeeing he is vnwiſe that preferreth Barabbas before Chriſt.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>YF thow, o my Lord, being true God of true God, conſubſtantiall with the father, and by whome all things were made, didſt ſuffer to be compared with Barabbas, and to be eſteemed leſſe than he, wherfore ſhould not I, whoe am but duſt and aſhes, and for my ſinnes vnworthie to liue: put my ſelfe euen vn<g ref="char:EOLhyphen"/>der all creatures? And why ſhall I eſtee<g ref="char:EOLhyphen"/>me the iudgment of the world, ſo foo<g ref="char:EOLhyphen"/>liſh and without all reaſon, that it tel<g ref="char:EOLhyphen"/>leth vs that euill is good, that bitter is ſweete, and maketh leſſe accoumpt of eternall wiſdome, then of fooliſhnes it ſelf. Alas my good Lord, deliuer me from this blindnes by that thine infinite
+<pb n="74" facs="tcp:24737:38"/>loue, which moued thee to ſuffer ſo vn<g ref="char:EOLhyphen"/>worthie things and neuer heard of be<g ref="char:EOLhyphen"/>fore, that I may alwaies praiſe and exalt thy power, wiſdome, and goodnes, whoe art bleſſed world without end. Amen. <hi>Pater</hi> and <hi>Aue;</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The eigth myſterie.</head>
+                  <p>WHen the Iews made him beare his croſſe ſo heauie and waightie, he be<g ref="char:EOLhyphen"/>ing wearie and afflicted, that ſo his heart might firſt feele the paine of death be<g ref="char:EOLhyphen"/>fore he died. O crueltie neuer read, nor heard, nor thought of before.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. TO take co<g ref="char:cmbAbbrStroke">̄</g>paſion of Chriſt, whoe hauing neede of reſt, was forced to beare ſo painfull a burden.</p>
+                  <p n="2">2. To conſider how readie he was, to take vppon him and beare his croſſe.</p>
+                  <p n="3">3. His paſſing great humilitie.</p>
+                  <p n="4">4. His loue ſo patience, and his pati<g ref="char:EOLhyphen"/>ence ſo louing.</p>
+                  <p n="5">5. The crueltie of the Iews towards one of theire owne nation, and whoe was the honour and glorie of theire countrie.</p>
+               </div>
+               <div type="part">
+                  <pb n="75" facs="tcp:24737:38"/>
+                  <head>Poincts of confuſion for vs.</head>
+                  <p n="1">1. THat we ſo much abhorre all ſorts of Croſſes.</p>
+                  <p n="2">2. That we be ſo readie to murmour in euery little tribulation.</p>
+                  <p n="3">3. That we be ſo prowd, as yf God were bound vnto vs, and we deſerued no manner of yll.</p>
+                  <p n="4">4. That knowing the Croſſe to be the means, by which we muſt goe to heauen, we doe yet ſo little think vp<g ref="char:EOLhyphen"/>pon it.</p>
+                  <p n="5">5. That we be ſo cruell towards our ſelues, and ſo vnlike to Chriſt and his holy Saincts.</p>
+               </div>
+               <div type="part">
+                  <head>The petition.</head>
+                  <p>TO aske grace that we may beare the Croſſe, which he thorough his great loue did beare; and that he giue vs light to knowe, how honourable a thing it is to ſuffer for his holy names ſake.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>WHen I think with my ſelf, ô my Lord, how with ſo great readines of mind
+<pb n="76" facs="tcp:24737:39"/>thow didſt take that heauie croſſe vp<g ref="char:EOLhyphen"/>pon thy ſhoulders for the loue of me, thou being yet in ſo pitifull and painfull caſe, I am altogeather confounded and much aſhamed, that I for thy ſake can not endure as much as a fleae byting. Alas! let thy mercie ouer<g ref="char:EOLhyphen"/>come my miſerie, and giue me grace that heereafter I may deſire to ſuffer much for thee, and that this may be my glorie to ſay with the holy Apoſtle.
+<note place="margin">
+                        <hi>Galat.</hi> 6.14.</note> 
+                     <hi>God forbid that I ſhould glory, ſauing in the croſſe of our Lord Ieſus Chriſt, by whome the world is crucified to me, and I to the world</hi> Amen. <hi>Pater</hi> and <hi>Aue.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The ninth mysterie.</head>
+                  <p>THe kind of this cruell death of the croſſe, becauſe by it a man died not ſo ſoone as whe<g ref="char:cmbAbbrStroke">̄</g> he is beheaded, or doeth dye of ſome ſuch like death; and yet ne<g ref="char:EOLhyphen"/>uertheles the wounds became greater through the waight of the body.</p>
+                  <p>Moreouer they were in the moſt ſen<g ref="char:EOLhyphen"/>ſible parts of the body, as in the hands and feete, which both be full of vai<g ref="char:EOLhyphen"/>nes and ſinowes: in ſomuch that not hauing receaued any mortall wound at all, by force of moſt cruell paines he
+<pb n="77" facs="tcp:24737:39"/>rendred vp his moſt holy ſowle. Wher<g ref="char:EOLhyphen"/>fore, when Pilat vnderſtoode that he was dead, he marueled at it, as the Euangeliſt reporteth.
+<note place="margin">
+                        <hi>Marc.</hi> 15.44,</note> And conſider well heere the fower poincts aboue men<g ref="char:EOLhyphen"/>tioned.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. THe great paines which he then did feele, which were in deede the verie greateſt that could be felt.</p>
+                  <p n="2">2. The ſhame he ſuffered, ſeeing him ſelf hanging betwixt twoe thieues; in an infamous place, and in preſence of ſo many people.</p>
+                  <p n="3">3. That the great loue held him on the croſſe, not the nayles or anie other thing.</p>
+                  <p n="4">4. That whileſt they tooke from him his goods, his life, and his good name, he praied for them.</p>
+                  <p n="5">5. That he was euerie way expoſed to paine, without feeling anie, euen the leſt comfort that might be.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. THat we be ſo farr from ſuffering for Chriſt, whoe ſuffered ſo much for vs.</p>
+                  <p n="2">
+                     <pb n="78" facs="tcp:24737:40"/> 2. That we miſtruſt to put our life in his hands, whoe ſo ioyfullie did giue his life for vs.</p>
+                  <p n="3">3. That we be ſo greedie of goods, and of worldlie fame, ſo much deſpiſed by Chriſt.</p>
+                  <p n="4">4. That we be ſo afraid of death, kno<g ref="char:EOLhyphen"/>wing that Chriſt died, whoe is the gate to goe to heauen.</p>
+                  <p n="5">5. That Chriſt for loue of vs neither eſteemed goods, nor honour, nor life: and that we be not aunſwerable to ſo great loue.</p>
+               </div>
+               <div type="part">
+                  <head>The petition.</head>
+                  <p>TO requeſt grace to perſeuer on the croſſe till death, and to be alwaies mindfull of the paſſion of Chriſt cru<g ref="char:EOLhyphen"/>cified.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>GRaunt me grace, ô moſt mercifull Lord, that I deſire for thy loue to remaine on the croſſe which thou ſhalt giue me, euen till death; and that I beare thee crucified ſtill engraued in my heart: by the bloud which thow didſt ſhed on the croſſe, by the paines which thow
+<pb n="79" facs="tcp:24737:40"/>didſt feele, and by the loue which did induce thee to all this: that being made partaker of thy paines, I be alſo partaker of thy eternall ioyes in the kingdome of heauen. Amen. <hi>Pater</hi> and <hi>Aue.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The tenth myſterie.</head>
+                  <p>TO haue ben ſo much deſpiſed whi<g ref="char:EOLhyphen"/>leſt he was vppon the croſſe in the middeſt of ſo great paines, the Iews ſom<g ref="char:EOLhyphen"/>times ſaying vnto him, that yf he were the ſonne of God, he ſhould deſcend from the croſſe; ſom others, that he had ſaued others, but could not ſaue him ſelf; and againe that in three daies he ſhould build againe the temple. Conſider well the fower poincts we ſpake of before.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. COnſider that Chriſt was held in<g ref="char:EOLhyphen"/>famous, ſuffered infamous death, in an infamous place, of infamous per<g ref="char:EOLhyphen"/>ſons, and with infamous woords.</p>
+                  <p n="2">2. His patience, humilitie, loue, and contempt of the world.</p>
+                  <p n="3">3. His charitie in praying his father, that not onlie he would not throw them head-long doune to hell, but would alſo forgiue them.</p>
+                  <p n="4">
+                     <pb n="80" facs="tcp:24737:41"/> 4. The crueltie of the Iews; for yf ſuch extremities had ben vſed, to anie dogge they would haue moued to compaſ<g ref="char:EOLhyphen"/>ſion.</p>
+                  <p n="5">5. The maruell and woundering of the Angels, whoe did ſee theſe things, &amp; what we our ſelues would haue donne, yf we had ben preſent at ſuch enormities, eſpecially knowing him that ſuffered to be the ſonne of God.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of confuſion for vs.</head>
+                  <p n="1">1. THat Chriſt being glorious ſuffe<g ref="char:EOLhyphen"/>red him ſelf to be accoumpted as infamous, and vſed as ſuch a one: and that we, being in deede infamous thorough our ſinnes and vngratefulnes, will be eſteemed glorious.</p>
+                  <p n="2">2. That when anie doe contradict vs, we giue them forthwith the lye, pro<g ref="char:EOLhyphen"/>uoke them to the combat, and become contentious and angrie.</p>
+                  <p n="3">3. That for any the leſt iniurie donne to vs, we would, yf we could, inco<g ref="char:cmbAbbrStroke">̄</g>tinent, lie ruine him that did it.</p>
+                  <p n="4">4. That we feele ſo little compaſſion of all that Chriſt ſuffered and yet haue ſo great compaſſion of our ſelues, and of anie thing pertaining to vs.</p>
+                  <p n="5">
+                     <pb n="81" facs="tcp:24737:41"/> 5. That ſome of vs Chriſtians doe now no leſſe blaſpheme Chriſt, then the Iews did in that time.</p>
+               </div>
+               <div type="part">
+                  <head>The petition.</head>
+                  <p>TO ask grace to contemne what<g ref="char:EOLhyphen"/>ſoeuer iniurious, infamous, or diſ<g ref="char:EOLhyphen"/>honourable words, to the end we may become true folowers of Chriſt.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>O My ſowle, wherfore art thou not aſtoniſhed? why art thow not con<g ref="char:EOLhyphen"/>founded? why art thow not aſhamed, ſeeing thy Lord, thy ſpouſe, thy lo<g ref="char:EOLhyphen"/>uer ſo tormented on the croſſe; and that thow wilt liue in pleaſures? that he is naked; and thow wilt be vainlie apparelled? that he doth pray for them, whoe take from him his ſubſtance, his good name, and his life; and thow art ſo far from this? O charitie, ne<g ref="char:EOLhyphen"/>uer heard of! O my Lord, by this thy wounderfull charitie, powre, I beſeeche thee, into my ſowle a newe ſpiritte, renew in my bowels thy right ſpirit, that I may haue thee alwaies ingraued in my heart, and may
+<pb n="82" facs="tcp:24737:42"/>ſtill remaime with thee vppon the croſ<g ref="char:EOLhyphen"/>ſe, and ſtill pray for them that ſpeake or doe yll vnto me, that folowing thee here on earth as thy child, I may after ſee thee and inioy thee in heauen. Amen. <hi>Pater</hi> and <hi>Aue.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The eleuenth myſterie.</head>
+                  <p>OF the paine he had beholding his mother, and the torments where<g ref="char:EOLhyphen"/>with he knew her holy ſowle was re<g ref="char:EOLhyphen"/>pleniſhed.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. COnſider how ſorowfull the bleſ<g ref="char:EOLhyphen"/>ſed virgin was ſeing her ſonne ſo miſuſed; but what ſonne? of whome? and wherefore?</p>
+                  <p n="2">2. Her patience, ſhe not doing nor ſaying any thing, in the middeſt of ſo many cruelties, which ſhe did ſee were vſed towards her moſt beloued ſonne, that was not ſeemely to a moſt wiſe and graue matrone.</p>
+                  <p n="3">3. The conformitie of her will with that of God, by which ſhe would haue become the ladder (as S. Catherine of Siena writeth) that by it Chriſt might
+<pb n="83" facs="tcp:24737:42"/>goe vp to the croſſe, ſo to ſaue the who<g ref="char:EOLhyphen"/>le world.</p>
+                  <p n="4">4. The manner of God ſo diuers from that of the world, that he maketh euen his deareſt frinds to ſuffer ſo much: as were his ſonne, &amp; his mother, and others beloued of him.</p>
+                  <p n="5">5. That the affection which our Ladie as mother did beare to Chriſt, did not withhold him from being crucified on the Croſſe, nor the loue which he as a ſonne did beare to his mother, from dying for vs vppon the ſame croſſe.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of confuſion for vs.</head>
+                  <p n="1">1. THat we be ſo tyed to our chil<g ref="char:EOLhyphen"/>dren &amp; kindred, not louing them nor holding them as things of God, and at his commaundement.</p>
+                  <p n="2">2. That we be ſo afflicted and impa<g ref="char:EOLhyphen"/>tient, when they be yll at eaſe, or that God doth take them from vs by death.</p>
+                  <p n="3">3. That we be ſo far of from taking all things at Gods hands, and confor<g ref="char:EOLhyphen"/>ming our ſelues to his moſt holy wil.</p>
+                  <p n="4">4. That we be ſo rude and ignorant, in vnderſtanding the meanes that God is wont to vſe, and ſo contrarie to the ſame.</p>
+                  <p n="5">
+                     <pb n="84" facs="tcp:24737:43"/> 5. That we be ſo eaſilie addicted to the things of this world, and with ſuch difficultie to thoſe of God.</p>
+               </div>
+               <div type="part">
+                  <head>The petition.</head>
+                  <p>TO demaund grace, that as neither the loue of his deare mother, nor the manie torments and iniuries of his eni<g ref="char:EOLhyphen"/>mies, could make Chriſt come downe from the croſſe; ſo likwiſe nor the loue of any creature, nor the diſpleaſures of the ſame, may be able to withdrawe vs from the ſeruice of our Lord God, and to leaue of the good once begunne for his ſake.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>YF thow, o my ſweeteſt Lord, being vppon the croſſe naked, tormented and afflicted, neither for the loue of thy deare mother, nor for any iniurious woords of thyne enimies, wouldeſt, for the loue thow didſt beare to me, come downe from thy painfull croſſe: Wherefore ſhould I, ſeruing thee that art king of kings, and whoſe ſeruice is nought els but raigning, faile in the leſt point of thy honnourable ſeruice, ſo
+<pb n="85" facs="tcp:24737:43"/>full of peace, ſo full of pleaſure, ſo full of all comfort? Wherefore ſhould I leaue the ſame for the loue of my kinsfolks, for the diſpleaſure of myne enimies, and for the ſpeeche of the fooliſh common people? Wherfore ſhould I ceaſe to be<g ref="char:EOLhyphen"/>come thine, ſeeing thow art altogeather mine? and to ſpend my whole life for thy maieſtie, whoe haſt ſpent all thine for ſo baſe a creature as I am? Wherfore, ſeeing thow didſt hold it for a greate fauour, to ſuffer for my loue, infamies, paines, and moſt cruell death; ſhould not I eſteeme it as a moſt great honour to be for thy loue diffamed, ſcorned, and yll vſed? O Lord graunt me this grace by thy moſt tender loue, that with a ſyncere and pure heart I loue thee alone, praiſe thee alone, and ſer<g ref="char:EOLhyphen"/>ue thee alone euen till death, that then with a ioyfull and quiet countenance I may goe to thee, and with louing affe<g ref="char:EOLhyphen"/>ction vtter theſe words. <hi>In manus tuas, Domine, commendo ſpiritum meum;</hi> Into thy hands, O Lord, I doe commend my ſpirit. Amen. <hi>Pater</hi> and <hi>Aue.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The tweleuth mysterie.</head>
+                  <p>OF the gall giuen him, being in the mideſt of ſo great thirſt of ſorows and paines.</p>
+               </div>
+               <div type="part">
+                  <pb n="86" facs="tcp:24737:44"/>
+                  <head>Poincts of meditation.</head>
+                  <p n="1">1. COnſider the crueltie of thoſe Iews whoe denied a litile water to him, that was ſo much tormented and voide of bloud, which water he demaunded dying.</p>
+                  <p n="2">2. That in ſteede of water they giue him vinaigre and gall; a thing which Abra<g ref="char:EOLhyphen"/>ham did not to the riche glutton that was in hell.</p>
+                  <p n="3">3 The great deſire that Chriſt had to ſuffer, ſeeing that becauſe of all his mem<g ref="char:EOLhyphen"/>bers his toung onlie remained without paine, he would therfore that the ſame ſhould alſo in the end ſuffer paine.</p>
+                  <p n="4">4. With this conſider alſo his admira<g ref="char:EOLhyphen"/>ble patience in this caſe.</p>
+                  <p n="5">5. Aboue all conſider the great loue which in this he ſhewed vnto vs.</p>
+               </div>
+               <div type="part">
+                  <head>Poincts of confuſion for vs.</head>
+                  <p n="1">1. THat he hauing ſo great thirſt of our ſaluation, we our ſelues haue ſo little of the ſame, and that we think not at all how to quench it, by turning to him</p>
+                  <p n="2">2. That he being thirſtie to remaine alwaies in our ſoules, chieflie by means
+<pb n="87" facs="tcp:24737:44"/>of the bleſſed Sacrament, there be yet ſo fewe that ſeeke to pleaſure him.</p>
+                  <p n="3">3. That the Lord of all things would become ſo extreme poore, as to haue neede of a little water, and yet could not obtaine it: and that we notwithſtanding will abound in all things.</p>
+                  <p n="4">4. That the deſire of Chriſt was al<g ref="char:EOLhyphen"/>waies to ſuffer, and that ours is to be ſtill in pleaſures and paſtimes.</p>
+                  <p n="5">5. That we haue ſo ſmall deſire to help our neighbour, and that we care not to ſcandalize him, for whome Chriſt died of thirſt.</p>
+               </div>
+               <div type="part">
+                  <head>The petition.</head>
+                  <p>TO requeſt the grace of God, not to render him any more gall for hony, that is yll for ſo many benifits as he be<g ref="char:EOLhyphen"/>ſtoweth vppon vs at all tymes, by the moſt bitter paſſion, which then he did feele, &amp; by that moſt louing loue, which induced him to take ſo painfull and bit<g ref="char:EOLhyphen"/>ter a cuppe.</p>
+               </div>
+               <div type="part">
+                  <head>The praier.</head>
+                  <p>O How many times, my good Lord, haue I giuen thee bitter gall, for the ſweete and continuall hony thow haſt
+<pb n="88" facs="tcp:24737:45"/>giuen me? how many ſinnes, for ſo ma<g ref="char:EOLhyphen"/>ny gifts? how many euills, for ſo many goods? O how many times, whileſt I en<g ref="char:EOLhyphen"/>ioyed thy goods, which I haue alwaies enioied, and yet doe enioie them, not hauing any thing that is not thine, how often, I ſay, haue I offended thee with the ſelf ſame things that were thine? and how often times receauing thy paye, haue I fought vnder the diule and vnder the world? Alas! giue me grace that I yeeld thee grapes, and no more wild grapes; good, and not euill; thankfullnes, not vnthankfulnes; and that I alwaies feele diſguſt when I ſhould doe, ſpeake, or think anie thing, that maie be againſt thy diuine maieſtie; and that hencefor<g ref="char:EOLhyphen"/>ward I render thee loue for loue, bloud for bloud, life for life, that as with my euill life I haue ſcandalized heauen and earth: ſo heereafter, with my holy and vertuous life, my neighbour may be edified, and thy diuine maieſtie praiſed, bleſſed and glorified for euer. Amen. <hi>Pater</hi> and <hi>Aue.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="89" facs="tcp:24737:45"/>
+                  <head>A ſpeeche which the ſowle doth make with Christ, diſcourſing with him vppon his paſſion.</head>
+                  <lg>
+                     <l>O My Lord, wherfore waſt thou ſold?</l>
+                     <l>To redeeme thee.</l>
+                     <l>O Lord, wherefore didſt thow pray ſo much?</l>
+                     <l>To pacifie the wrath of my father againſt thee.</l>
+                     <l>O Lord, wherefore waſt thow afraid and aſtoniſhed?</l>
+                     <l>To make thee moſt aſſured &amp; couragious.</l>
+                     <l>O Lord wherfore were ſo many de<g ref="char:EOLhyphen"/>ceits vſed to intrapp thee?</l>
+                     <l>To deliuer thee from all deceite.</l>
+                     <l>Wherefore didſt thow ſweate bloud?</l>
+                     <l>To waſh away the ſpots of thy ſinnes.</l>
+                     <l>Wherfore wouldeſt thow be taken?</l>
+                     <l>To the end thow mighteſt not be taken of thine enimies.</l>
+                     <l>Wherefore wouldeſt thow be bound?</l>
+                     <l>To looſſe the bonds of thy ſinnes.</l>
+                     <l>Wherefore waſt thow denied by Peter?</l>
+                     <l>To confeſſe thee before my father.</l>
+                     <l>Wherfore wouldeſt thow be forſaken of all thy diſciples?</l>
+                     <l>To remaine with thee euen till the daie of iudgment.</l>
+                     <l>Wherfore wouldeſt thow be accuſed?</l>
+                     <l>To abſolue thee.</l>
+                     <pb n="90" facs="tcp:24737:46"/>
+                     <l>Wherfore wouldeſt thou be ſpitted on?</l>
+                     <l>To clenſe thy filthines.</l>
+                     <l>Wherfore wouldeſt thou be ſcourged?</l>
+                     <l>To free thee from eternall ſcourges.</l>
+                     <l>Wherfore wouldeſt thow be lifted vp on the croſſe?</l>
+                     <l>To lift thee vp into heauen.</l>
+                     <l>Wherfore wouldeſt thow be crow<g ref="char:EOLhyphen"/>ned with thornes?</l>
+                     <l>To crowne thee in euerlaſting glorie.</l>
+                     <l>Wherfore wouldeſt thow ſtretch out thy armes?</l>
+                     <l>To embrace thee my beloued ſowle.</l>
+                     <l>Wherfore didſt thow bow doune thy head, o my Lord?</l>
+                     <l>To kiſſe thee, o my deere ſowle.</l>
+                     <l>Wherfore wouldeſt thow that thy ſy<g ref="char:EOLhyphen"/>de ſhould be opened with a ſpeare?</l>
+                     <l>To receaue thee in my heart, o my ſowle</l>
+                     <l>Wherfore wouldeſt thow be placed in the mideſt of two thieues?</l>
+                     <l>To place thee in the middeſt of the Angels in heauen, o my deere ſowle.</l>
+                  </lg>
+                  <p>O what vnmeaſurable charitie! what infinite loue! what fauour neuer heard of! what wounderfull mercie! God to become man. The eternall to become temporall. The impaſſible to become paſſible. The immortall to become mor<g ref="char:EOLhyphen"/>tall. The glorious to become ignomi<g ref="char:EOLhyphen"/>nious:
+<pb n="91" facs="tcp:24737:46"/>And for whome all this at the length? for me, for me. O moſt wounder<g ref="char:EOLhyphen"/>full wounder.</p>
+               </div>
+               <div type="part">
+                  <head>A praier concerning euerie article of the Paſſion.</head>
+                  <p>O God, whoe for the Redemption of the world wouldeſt be borne, circunciſed, reproued of the Iewes, be<g ref="char:EOLhyphen"/>traied with a kiſſe of Iudas the traitour, lead as an innocent lambe to the ſlaugh<g ref="char:EOLhyphen"/>ter, and vndecentlie offered to the ſight of Annas, Caiphas, Pilate, Herode, ac<g ref="char:EOLhyphen"/>cuſed of falſe witneſſes, vexed with ſcourges and reproches, beſmired with ſpittle, crowned with thornes, ſtrooken with buffets, ſmoten with a reede, blind<g ref="char:EOLhyphen"/>folded, ſtripped of thy garments, faſtened to the croſſe with nayls, lifted vp on the croſſe, reputed amongſt theeues, preſen<g ref="char:EOLhyphen"/>ted with vinagre and gall to drink, and wounded with a ſpeare. Thow ô Lord, by theſe thy moſt holy paines, which I vnworthy doe remember, and by thy holy croſſe and death, deliuer me from the paines of hell, and vouchſafe to bring me whither thow didſt bring the theefe crucified with thee. Whoe with the fa<g ref="char:EOLhyphen"/>ther and the holy ghoſt, liueſt and rai<g ref="char:EOLhyphen"/>gneſt,
+<pb n="92" facs="tcp:24737:47"/>world without end. Amen.</p>
+               </div>
+               <div type="part">
+                  <head>Another Praier.</head>
+                  <p>O Lord IESVS Chriſt in whoſe domi<g ref="char:EOLhyphen"/>nion all things ar put, and there is none that can reſiſt thy will, whoe didſt vouchſafe to be borne, to dye, and to riſe againe: by the myſterie of thy moſt ſacred body, and by the fiue wounds and ſhedding of thy moſt pre<g ref="char:EOLhyphen"/>tious bloud, haue mercie vppon vs, as thow knoweſt to be needefull to our ſowles and bodies: deliuer vs from tentation of the diule, and from all thoſe things with which thow knoweſt we be ſtreightned, and conſerue and ſtrengthen vs in thy ſeruice euen till the end, and giue vs true amendment and ſpace of true penance, and after death graunt vs true remiſſion of all our ſin<g ref="char:EOLhyphen"/>nes: and make vs one another to loue our brothers, ſiſters, frinds and enimies, and without end to reioice with all thy Saincts in thy kingdome, whoe with God the father and the holy ghoſt liueſt and raigneſt God for euer and euer. Amen.</p>
+               </div>
+               <div type="part">
+                  <pb n="93" facs="tcp:24737:47"/>
+                  <head>A prayer to the wounds of Christ.</head>
+                  <p>I Pray thee, o Lord IESVS, by thy moſt holſome wounds, which thow didſt ſuffer vppon the croſſe for our ſaluation, from which flowed out that pretious bloud where- with we were redeemed: wound this my ſinfull ſowle, for which alſo thou didſt vouch<g ref="char:EOLhyphen"/>ſafe to dye: wound it with the fyrie and moſt ſtrong dart of thy exceeding cha<g ref="char:EOLhyphen"/>ritie. Strike my hart with the iaue<g ref="char:EOLhyphen"/>ling of thy loue, that my ſoule may ſaie vnto thee; with thy char<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> I am wounded; ſo that out of the wound of thy loue, there may flowe moſt abun<g ref="char:EOLhyphen"/>dant teares daye and night. Strike o Lord, ſtrike I beſeeche thee this my moſt hard hearte, with the mercifull and ſtrong ſpeare of thy loue, and pearce with mightie power more deepe to the inward parts. Whoe liueſt and raigneſt for euer and euer. Amen.</p>
+               </div>
+               <div type="part">
+                  <pb n="94" facs="tcp:24737:48" rendition="simple:additions"/>
+                  <head>Deuout petitions to our Lord <hi>IESVS</hi> Chriſt taken out of S. Auguſtine.</head>
+                  <l>O Lord IESVS, let me know my ſelf, and know thee.</l>
+                  <l>Let me not deſire any thing, but thee.</l>
+                  <l>Let me hate my ſelf, and loue thee.</l>
+                  <l>Whatſoeuer I doe, let me doe it for thee.</l>
+                  <l>Let me humble my ſelf, &amp; exalt thee.</l>
+                  <l>Let me think of nothing, but of thee.</l>
+                  <l>Let me mortifie myſelf, &amp; liue in thee.</l>
+                  <l>Whatſoeuer things ſhall chaunce, let me take them of thee.</l>
+                  <l>Let me perſecute my ſelf, and folow thee.</l>
+                  <l>Let me ſtill deſire to folow thee.</l>
+                  <l>Let me fly from my ſelf, &amp; fly to thee.</l>
+                  <l>Let me be worthy to be defe<g ref="char:cmbAbbrStroke">̄</g>ded of thee.</l>
+                  <l>Let me take heede to my ſelf, and feare thee.</l>
+                  <l>Let me be of thoſe that ar choſen of thee.</l>
+                  <l>Let me miſtruſt my ſelf, &amp; truſt in thee.</l>
+                  <l>Let me haue deſire to be obedient for thee.</l>
+                  <l>Let me haue affection in nothing, but in thee.</l>
+                  <l>Looke vppon me, that I may loue thee.</l>
+                  <l>Call me, that I may ſee thee.</l>
+                  <l>And let me for euer inioye thee. Amen.</l>
+                  <pb facs="tcp:24737:48"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
